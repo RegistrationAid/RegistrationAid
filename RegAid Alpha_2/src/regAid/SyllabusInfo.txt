@@ -1,0 +1,89 @@
+                CSS 162 – Programming Methodology
+University of Washington, Bothell - Computing & Software Systems
+Instructor: Robert Nash
+ 
+Website: http://courses.washington.edu/css162	Email: rynn@u.washington.edu
+Office: CSS Shared Faculty Office	Office Hours: Mon, Tues 5:15-5:45pm
+Quarter: Summer, 2011	Lecture:M,W 5:45-7:50p, Lab Tues 5:45-7:50
+ 
+ 
+ 
+ 
+ 
+Prerequisites
+
+To be adequately prepared, CSS 161 is required a minimum grade of 2.7. 
+Course Content and Goals
+This course is designed to facilitate a transition from basic programming skills 
+to a rigorous process of software development.  You will become familiar with 
+higher level programming techniques (recursion, generic programming) and constructs 
+(object-orientation, lists, stacks, queues, searching, sorting, design patterns).  
+The connection between mathematical/algorithmic thought (logic, sets, functions, 
+number bases) and implementation will be emphasized in this course.  
+ 
+ 
+Textbooks
+
+•   Walter Savitch, Absolute Java, Newest edition, Addison-Wesley, 2007.
+•   Kenneth H. Rosen, Discrete Mathematics and Its Applications, 6th edition, McGraw Hill, 2007.
+•   M. David Ermann and Michele S. Shauf, Computers, Ethics, and Society, 3rd edition, Oxford University Press, 2003.
+ 
+Grading
+
+Programming Assignments (6-8)                                            30%
+Midterm Exams (2)                                                        40%
+Final exam (1)                                                           25%
+Participation                                                             5%
+(An approximate scale of 90s (3.5-4.0), 80s (2.5-3.4), 70s (1.5-2.4), 60s (0.7-1.4) is used.)
+ 
+Participation and Attendance
+
+A percentage of the course grade comes from class participation, which can be summarized as the constructive 
+involvement of a student during class.  Attendance is expected at all lectures, and this class’s policy is the 
+same as the attendance policy outlined in the UWB handbook.  Usually, each class meeting contains information, 
+handouts, assignments, etc. which are critical to the success of a student in CSS 162.  If a student misses a 
+lecture, it is recommended that he/she talk to a fellow student who was present for the class.  Individuals will 
+not receive extracurricular tutoring due to missed class; but of course, all students are welcome to visit with 
+the instructor during office hours with questions about the material.  It has been proven in previous CSS courses 
+that students who do not attend class do not succeed nearly as easily or frequently as those who do.
+ 
+ 
+Class Policies
+
+The labs are the only work items that can be completed by teams of two in this course.
+The homework assignments are designed to be completed independently, and all student handbook guidelines with 
+regards to plagiarism apply to any student’s work here. Please be careful to follow UWB policies on academic and 
+behavioral conduct: http://www.uwb.edu/students/policies/.  Each student should submit their own work without 
+cloning it from another existing work, whether found online or in the classroom.  Violations of the student code 
+of conduct will result in a zero score for that work.  
+ 
+Assignment Submission
+
+Assignments will eventually be turned in using Catalyst.  The submission site will close promptly at the start of 
+class.  However, assignments can be turned in up to 5 days late with a 10% grade reduction per day, and there will 
+be no extra credit given.  
+Exams
+Make-up exams will not be given in this class, unless something catastrophic occurs.  These events should be discussed 
+with the instructor ahead of time, except in the case of an emergency (which should be well documented).  
+ 
+Courtesy & Technology
+
+We’ll use technology in this class only to facilitate the learning outcomes stated in the outline and this syllabus.  
+Thus, cell phones and pagers should be disabled, and the using of a laptop (or the terminal in front of you) should 
+not distract anyone from what the class is currently working on (or should be disabled).  Conversations should be kept 
+to a minimum as a courtesy to other students that are trying to learn.
+ 
+
+ 
+MessageBoard
+                https://catalysttools.washington.edu/gopost/board/rnash/22627
+ 
+Turnin Site
+                https://catalysttools.washington.edu/collectit/dropbox/rnash/16420
+***
+This is the Syllabus Info for CSS342B!
+***
+This is the Syllabus Info for CSS360C!
+***
+This is the Syllabus Info!
+***
