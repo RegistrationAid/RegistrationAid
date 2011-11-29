@@ -8,12 +8,12 @@ import javax.swing.JOptionPane;
 public class SearchForm extends javax.swing.JDialog 
 {
     GUI gui2;
-    String cssClassNames = "src/regAid/CSS_ClassNames.txt";
-    String cssSyllabusInfo = "src/regAid/CSS_SyllabusInfo.txt";
-    String busClassNames = "src/regAid/BUS_ClassNames.txt";
-    String busSyllabusInfo = "src/regAid/BUS_SyllabusInfo.txt";
-    String engClassNames = "src/regAid/ENG_ClassNames.txt";
-    String engSyllabusInfo = "src/regAid/ENG_SyllabusInfo.txt";
+    String cssClassNames = "CSS_ClassNames.txt";
+    String cssSyllabusInfo = "CSS_SyllabusInfo.txt";
+    String busClassNames = "BUS_ClassNames.txt";
+    String busSyllabusInfo = "BUS_SyllabusInfo.txt";
+    String engClassNames = "ENG_ClassNames.txt";
+    String engSyllabusInfo = "ENG_SyllabusInfo.txt";
     MajorArrayList CSS = new MajorArrayList(cssClassNames, cssSyllabusInfo);
     MajorArrayList BUS = new MajorArrayList(busClassNames, busSyllabusInfo);
     MajorArrayList ENG = new MajorArrayList(engClassNames, engSyllabusInfo);
@@ -134,7 +134,6 @@ private void searchJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN
 
     //    MajorArrayList search = new Search().Search(lists, 3, searchName);
         MajorArrayList search = new Search().Search(lists, 2, searchName);
-        buildList bb = new buildList(search);
         
         if(search.getSize() == 0)
             throw new Exception();
