@@ -1,89 +1,89 @@
 package regAid;
 
-
-/**
- *
- * @author SHANE
- * 
- */
-import java.util.*;
+import java.awt.Toolkit;
 import java.io.*;
-import java.util.jar.JarEntry;
-import java.util.jar.JarFile;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JFrame;
-
 
 public class GUI extends javax.swing.JApplet 
 {       
-        boolean CSS1 = false;
-        boolean BUS1 = false;
-        boolean ENG1 = false;
-        String classFileName = "src/regAid/ClassNames.txt";
-        String infoFileName = "src/regAid/SyllabusInfo.txt";
-        String classFileName2 = "src/regAid/ClassNames_1.txt";
-        String infoFileName2 = "src/regAid/SyllabusInfo_1.txt";
-        String classFileName3 = "src/regAid/ClassNames_2.txt";
-        String infoFileName3 = "src/regAid/SyllabusInfo_2.txt";
-        MajorArrayList CSS = new MajorArrayList(classFileName, infoFileName);
-        MajorArrayList BUS = new MajorArrayList(classFileName2, infoFileName2);
-        MajorArrayList ENG = new MajorArrayList(classFileName3, infoFileName3);
-        
-        buildList b1 = new buildList(CSS);
-        buildList b2 = new buildList(BUS);
-        buildList b3 = new buildList(ENG);
+    private SearchForm tempSearchForm;
+    private AboutForm tempAboutForm;
+    public static boolean addToList = false;
+    public String[] searchSyllabusInfo;
+    boolean CSS1 = false;
+    boolean BUS1 = false;
+    boolean ENG1 = false;
+    String cssClassNames = "CSS_ClassNames.txt";
+    String cssSyllabusInfo = "CSS_SyllabusInfo.txt";
+    String busClassNames = "BUS_ClassNames.txt";
+    String busSyllabusInfo = "BUS_SyllabusInfo.txt";
+    String engClassNames = "ENG_ClassNames.txt";
+    String engSyllabusInfo = "ENG_SyllabusInfo.txt";
+    MajorArrayList CSS = new MajorArrayList(cssClassNames, cssSyllabusInfo);
+    MajorArrayList BUS = new MajorArrayList(busClassNames, busSyllabusInfo);
+    MajorArrayList ENG = new MajorArrayList(engClassNames, engSyllabusInfo);
+    buildList b1 = new buildList(CSS);
+    buildList b2 = new buildList(BUS);
+    buildList b3 = new buildList(ENG);
+    int currentSizeOfMajors;
 
-        public static void main(String[] args) {
+    public static void main(String[] args) throws IOException 
+    {
         //... Create an initialize the applet.
         GUI theApplet = new GUI();
+
         theApplet.init();         // Needed if overridden in applet
+
         //theApplet.start();        // Needed if overridden in applet
-        
+
         //... Create a window (JFrame) and make applet the content pane.
-        JFrame window = new JFrame("Reg Aid Zero Feature Release");
+        JFrame window = new JFrame("Registration Aid");
         window.setContentPane(theApplet);
+
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.pack();              // Arrange the components.
-        //System.out.println(theApplet.getSize());
         window.setVisible(true);    // Make the window visible.
+        window.setIconImage(Toolkit.getDefaultToolkit().getImage("src/RegAid/UW_Icon.gif"));
+        window.setLocationRelativeTo(null);
+        theApplet.engineeringJButton.setVisible(false); //Disables Engineering Button
+        theApplet.engineeringJMenuItem.setVisible(false); //Disables Engineering Menu Item
     }
     /** Initializes the applet second */
     @Override
     public void init() 
-    {
+    {        
         setSize(800, 400);
-
-
-  //      majorsJList.setVisible(false);
+        //      majorsJList.setVisible(false);
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
         /* If Nimbus (introduced in Java SE 6) is not available, stay with the default look and feel.
-         * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
-         */
+        * For details see http://download.oracle.com/javase/tutorial/uiswing/lookandfeel/plaf.html 
+        */
         try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
+        for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+        if ("Nimbus".equals(info.getName())) {
+        javax.swing.UIManager.setLookAndFeel(info.getClassName());
+        break;
+        }
+        }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+        java.util.logging.Logger.getLogger(GUI.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
 
         /* Create and display the applet */
-        try {
-            java.awt.EventQueue.invokeAndWait(new Runnable() {
-
-                public void run() {
+        try 
+        {
+            java.awt.EventQueue.invokeAndWait(new Runnable() 
+            {
+                public void run() 
+                {
                     initComponents();
                 }
             });
@@ -91,15 +91,8 @@ public class GUI extends javax.swing.JApplet
         catch (Exception ex) 
         {
             ex.printStackTrace();
-        }
-        
-        
-  //      syllabusJTextArea.setText(m1.getIndex(1));
-        
+        }        
     }
-    
-
-
 
     /** This method is called from within the init() method to
      * initialize the form.
@@ -118,12 +111,34 @@ public class GUI extends javax.swing.JApplet
         engineeringJButton = new javax.swing.JButton();
         cssJButton = new javax.swing.JButton();
         businessJButton = new javax.swing.JButton();
+        searchJButton = new javax.swing.JButton();
+        jLabel1 = new javax.swing.JLabel();
+        jLabel2 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
-        jMenu1 = new javax.swing.JMenu();
+        fileJMenu = new javax.swing.JMenu();
+        searchMenuItem = new javax.swing.JMenuItem();
+        jSeparator1 = new javax.swing.JPopupMenu.Separator();
         exitJMenuItem = new javax.swing.JMenuItem();
+        viewJMenu = new javax.swing.JMenu();
+        businessJMenuItem = new javax.swing.JMenuItem();
+        cssJMenuItem = new javax.swing.JMenuItem();
+        engineeringJMenuItem = new javax.swing.JMenuItem();
+        navigateJMenu = new javax.swing.JMenu();
+        firstJMenuItem = new javax.swing.JMenuItem();
+        previousJMenuItem = new javax.swing.JMenuItem();
+        nextJMenuItem = new javax.swing.JMenuItem();
+        lastJMenuItem = new javax.swing.JMenuItem();
+        helpJMenu = new javax.swing.JMenu();
+        aboutJMenuItem = new javax.swing.JMenuItem();
 
         setBackground(new java.awt.Color(204, 204, 204));
         setName("mainJApplet"); // NOI18N
+        addFocusListener(new java.awt.event.FocusAdapter() {
+            public void focusGained(java.awt.event.FocusEvent evt) {
+                formFocusGained(evt);
+            }
+        });
 
         majorsJList.addListSelectionListener(new javax.swing.event.ListSelectionListener() {
             public void valueChanged(javax.swing.event.ListSelectionEvent evt) {
@@ -133,6 +148,7 @@ public class GUI extends javax.swing.JApplet
         jScrollPane1.setViewportView(majorsJList);
 
         syllabusJTextArea.setColumns(20);
+        syllabusJTextArea.setEditable(false);
         syllabusJTextArea.setRows(5);
         jScrollPane2.setViewportView(syllabusJTextArea);
 
@@ -158,7 +174,36 @@ public class GUI extends javax.swing.JApplet
             }
         });
 
-        jMenu1.setText("File");
+        searchJButton.setText("Search");
+        searchJButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                searchJButtonActionPerformed(evt);
+            }
+        });
+
+        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 12));
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel1.setText("Majors");
+
+        jLabel2.setFont(new java.awt.Font("Tahoma", 1, 12));
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel2.setText("Syllabus Information");
+        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+
+        jLabel3.setFont(new java.awt.Font("Tahoma", 1, 12));
+        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel3.setText("Classes");
+
+        fileJMenu.setText("File");
+
+        searchMenuItem.setText("Search");
+        searchMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                searchMenuItemActionPerformed(evt);
+            }
+        });
+        fileJMenu.add(searchMenuItem);
+        fileJMenu.add(jSeparator1);
 
         exitJMenuItem.setText("Exit");
         exitJMenuItem.addActionListener(new java.awt.event.ActionListener() {
@@ -166,9 +211,85 @@ public class GUI extends javax.swing.JApplet
                 exitJMenuItemActionPerformed(evt);
             }
         });
-        jMenu1.add(exitJMenuItem);
+        fileJMenu.add(exitJMenuItem);
 
-        jMenuBar1.add(jMenu1);
+        jMenuBar1.add(fileJMenu);
+
+        viewJMenu.setText("View");
+
+        businessJMenuItem.setText("Business");
+        businessJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                businessJMenuItemActionPerformed(evt);
+            }
+        });
+        viewJMenu.add(businessJMenuItem);
+
+        cssJMenuItem.setText("CSS");
+        cssJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                cssJMenuItemActionPerformed(evt);
+            }
+        });
+        viewJMenu.add(cssJMenuItem);
+
+        engineeringJMenuItem.setText("Engineering");
+        engineeringJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                engineeringJMenuItemActionPerformed(evt);
+            }
+        });
+        viewJMenu.add(engineeringJMenuItem);
+
+        jMenuBar1.add(viewJMenu);
+
+        navigateJMenu.setText("Navigate");
+
+        firstJMenuItem.setText("First Major");
+        firstJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                firstJMenuItemActionPerformed(evt);
+            }
+        });
+        navigateJMenu.add(firstJMenuItem);
+
+        previousJMenuItem.setText("Previous Major");
+        previousJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                previousJMenuItemActionPerformed(evt);
+            }
+        });
+        navigateJMenu.add(previousJMenuItem);
+
+        nextJMenuItem.setText("Next Major");
+        nextJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                nextJMenuItemActionPerformed(evt);
+            }
+        });
+        navigateJMenu.add(nextJMenuItem);
+
+        lastJMenuItem.setText("Last Major");
+        lastJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                lastJMenuItemActionPerformed(evt);
+            }
+        });
+        navigateJMenu.add(lastJMenuItem);
+
+        jMenuBar1.add(navigateJMenu);
+
+        helpJMenu.setText("Help");
+
+        aboutJMenuItem.setText("About");
+        aboutJMenuItem.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                aboutJMenuItemActionPerformed(evt);
+            }
+        });
+        helpJMenu.add(aboutJMenuItem);
+
+        jMenuBar1.add(helpJMenu);
 
         setJMenuBar(jMenuBar1);
 
@@ -179,30 +300,51 @@ public class GUI extends javax.swing.JApplet
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(searchJButton, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(engineeringJButton, javax.swing.GroupLayout.DEFAULT_SIZE, 104, Short.MAX_VALUE)
                     .addComponent(cssJButton, javax.swing.GroupLayout.DEFAULT_SIZE, 104, Short.MAX_VALUE)
                     .addComponent(businessJButton, javax.swing.GroupLayout.DEFAULT_SIZE, 104, Short.MAX_VALUE))
-                .addGap(7, 7, 7)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 141, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 750, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(7, 7, 7)
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 141, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(6, 6, 6)
+                        .addComponent(jLabel3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 750, Short.MAX_VALUE))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(20, 20, 20)
+                        .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, 740, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(49, 49, 49)
+                .addContainerGap()
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel2)
+                    .addComponent(jLabel1)
+                    .addComponent(jLabel3))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 338, Short.MAX_VALUE)
-                        .addComponent(jScrollPane2, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 338, Short.MAX_VALUE))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(jScrollPane1, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 392, Short.MAX_VALUE)
+                            .addComponent(jScrollPane2, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, 392, Short.MAX_VALUE))
+                        .addContainerGap())
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(businessJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(cssJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(engineeringJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap())
+                        .addComponent(engineeringJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 142, Short.MAX_VALUE)
+                        .addComponent(searchJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 44, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(27, 27, 27))))
         );
     }// </editor-fold>//GEN-END:initComponents
 public String readFromJARFile(String filename)
@@ -222,12 +364,24 @@ throws IOException
   is.close();
   return sb.toString();
 }
+public void displaySearchResults(String[] majorsFound, String[] syllabusesFound, int sizeIn)
+{
+    //Sets the Jlist with majors found
+    currentSizeOfMajors = sizeIn;
+    majorsJList.setListData(majorsFound);
+    searchSyllabusInfo = syllabusesFound;
+    
+    BUS1 = false;
+    CSS1 = false;
+    ENG1 = false;
+    addToList = true;
+}
 private void majorsJListValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_majorsJListValueChanged
     int index = (majorsJList.getSelectedIndex());
     
     try
     {
-        if (index == -1)
+        if (index <= -1 )
             throw new IndexOutOfBoundsException();
     }
     catch(IndexOutOfBoundsException e)
@@ -236,60 +390,136 @@ private void majorsJListValueChanged(javax.swing.event.ListSelectionEvent evt) {
         majorsJList.setSelectedIndex(index);
     }
     
-
     if (BUS1 == true)
-    syllabusJTextArea.setText(BUS.get(index).getDescription());
+        syllabusJTextArea.setText(BUS.get(index).getDescription());
     if (CSS1 == true)
-    syllabusJTextArea.setText(CSS.get(index).getDescription());
+        syllabusJTextArea.setText(CSS.get(index).getDescription());
     if (ENG1 == true)
-    syllabusJTextArea.setText(ENG.get(index).getDescription());
-    
+        syllabusJTextArea.setText(ENG.get(index).getDescription());
+    if (addToList == true)
+        syllabusJTextArea.setText(searchSyllabusInfo[index]);
 
-    
-     
-
+    syllabusJTextArea.setCaretPosition(0);
 }//GEN-LAST:event_majorsJListValueChanged
 
 private void businessJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_businessJButtonActionPerformed
    BUS1 = true;
    CSS1 = false;
    ENG1 = false;
+   addToList = false;
+   currentSizeOfMajors = BUS.getSize();
    majorsJList.setListData(BUS.getNameArray());
-   majorsJList.setSelectedIndex(1);
-
+   majorsJList.setSelectedIndex(0);      
 }//GEN-LAST:event_businessJButtonActionPerformed
 
 private void cssJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cssJButtonActionPerformed
    BUS1 = false;
    CSS1 = true;
    ENG1 = false;
+   addToList = false;
+   currentSizeOfMajors = CSS.getSize();
    majorsJList.setListData(CSS.getNameArray());
-   majorsJList.setSelectedIndex(1);
+   majorsJList.setSelectedIndex(0);
 }//GEN-LAST:event_cssJButtonActionPerformed
 
 private void engineeringJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_engineeringJButtonActionPerformed
-    BUS1 = false;
+   BUS1 = false;
    CSS1 = false;
    ENG1 = true;
+   addToList = false;
+   currentSizeOfMajors = ENG.getSize();
    majorsJList.setListData(ENG.getNameArray());
-   majorsJList.setSelectedIndex(1);
+   majorsJList.setSelectedIndex(0);
 }//GEN-LAST:event_engineeringJButtonActionPerformed
 
 private void exitJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitJMenuItemActionPerformed
     System.exit(0);
 }//GEN-LAST:event_exitJMenuItemActionPerformed
 
+private void searchJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchJButtonActionPerformed
+    tempSearchForm = new SearchForm(null, true, this);
+    tempSearchForm.setVisible(true);
+}//GEN-LAST:event_searchJButtonActionPerformed
+
+private void formFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_formFocusGained
+
+}//GEN-LAST:event_formFocusGained
+
+private void aboutJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_aboutJMenuItemActionPerformed
+    tempAboutForm = new AboutForm(null, true);
+    tempAboutForm.setVisible(true);
+}//GEN-LAST:event_aboutJMenuItemActionPerformed
+
+private void searchMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchMenuItemActionPerformed
+    searchJButtonActionPerformed(evt);
+}//GEN-LAST:event_searchMenuItemActionPerformed
+
+private void businessJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_businessJMenuItemActionPerformed
+    businessJButtonActionPerformed(evt);
+}//GEN-LAST:event_businessJMenuItemActionPerformed
+
+private void cssJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cssJMenuItemActionPerformed
+    cssJButtonActionPerformed(evt);
+}//GEN-LAST:event_cssJMenuItemActionPerformed
+
+private void engineeringJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_engineeringJMenuItemActionPerformed
+    engineeringJButtonActionPerformed(evt);
+}//GEN-LAST:event_engineeringJMenuItemActionPerformed
+
+private void firstJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_firstJMenuItemActionPerformed
+    majorsJList.setSelectedIndex(0);
+    majorsJList.ensureIndexIsVisible(0);
+}//GEN-LAST:event_firstJMenuItemActionPerformed
+
+private void previousJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_previousJMenuItemActionPerformed
+    int initialIndex = majorsJList.getSelectedIndex();
+    if (currentSizeOfMajors != 0)
+    {
+        majorsJList.setSelectedIndex(initialIndex - 1);
+        majorsJList.ensureIndexIsVisible(initialIndex - 1);
+    }
+}//GEN-LAST:event_previousJMenuItemActionPerformed
+
+private void nextJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nextJMenuItemActionPerformed
+    int initialIndex = majorsJList.getSelectedIndex();
+    majorsJList.setSelectedIndex(initialIndex + 1);
+    majorsJList.ensureIndexIsVisible(initialIndex + 1);
+}//GEN-LAST:event_nextJMenuItemActionPerformed
+
+private void lastJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_lastJMenuItemActionPerformed
+    int lastIndex = (currentSizeOfMajors - 1);
+    majorsJList.setSelectedIndex(lastIndex);
+    majorsJList.ensureIndexIsVisible(lastIndex);
+}//GEN-LAST:event_lastJMenuItemActionPerformed
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JMenuItem aboutJMenuItem;
     private javax.swing.JButton businessJButton;
+    private javax.swing.JMenuItem businessJMenuItem;
     private javax.swing.JButton cssJButton;
+    private javax.swing.JMenuItem cssJMenuItem;
     private javax.swing.JButton engineeringJButton;
+    private javax.swing.JMenuItem engineeringJMenuItem;
     private javax.swing.JMenuItem exitJMenuItem;
-    private javax.swing.JMenu jMenu1;
+    private javax.swing.JMenu fileJMenu;
+    private javax.swing.JMenuItem firstJMenuItem;
+    private javax.swing.JMenu helpJMenu;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JPopupMenu jPopupMenu1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JList majorsJList;
+    private javax.swing.JPopupMenu.Separator jSeparator1;
+    private javax.swing.JMenuItem lastJMenuItem;
+    public javax.swing.JList majorsJList;
+    private javax.swing.JMenu navigateJMenu;
+    private javax.swing.JMenuItem nextJMenuItem;
+    private javax.swing.JMenuItem previousJMenuItem;
+    private javax.swing.JButton searchJButton;
+    private javax.swing.JMenuItem searchMenuItem;
     private javax.swing.JTextArea syllabusJTextArea;
+    private javax.swing.JMenu viewJMenu;
     // End of variables declaration//GEN-END:variables
 }

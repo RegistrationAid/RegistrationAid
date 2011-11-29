@@ -20,15 +20,16 @@ public class MajorArrayList
     {
         this.classFileName = classFileName;
         this.infoFileName = infoFileName;
+        classList = new Class[DEFAULT_SIZE];
+        size = 0;
     }
     
     public void fillList () throws FileNotFoundException
     {
-        classList = new Class[DEFAULT_SIZE];
-        size = 0;
-        Scanner classFile = new Scanner(new File (classFileName));
-        Scanner infoFile = new Scanner(new File (infoFileName));
-        this.name = classFile.next();
+        InputStream is1 = getClass().getResourceAsStream(classFileName);
+        InputStream is2 = getClass().getResourceAsStream(infoFileName);
+        Scanner classFile = new Scanner(is1);
+        Scanner infoFile = new Scanner(is2);
         while(classFile.hasNextLine())
         {
             Class temp = new Class(classFile.next(), getSyllabus(infoFile), classFile.next(), classFile.next(), classFile.next());
@@ -129,5 +130,9 @@ public class MajorArrayList
 	{
 		throw new IndexOutOfBoundsException("Index: "+ index); 
 	}
+    }
+    public int getSize()
+    {
+        return size;
     }
 }
