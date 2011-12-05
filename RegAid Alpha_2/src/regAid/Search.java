@@ -30,7 +30,8 @@ public class Search
     
     boolean keywordFound(String description, String keyword)
     {
-        if (description.contains(keyword))
+        String temp = description.toLowerCase();
+        if (temp.contains(keyword.toLowerCase()))
         {
             return true;
         }
@@ -39,11 +40,11 @@ public class Search
     
     boolean NameEquals(String name, String toCompare)
     {
-        String copy = toCompare;
+        String copy = toCompare.toLowerCase();
         String[] names = name.split(" ");
         for (int i = 0; i < names.length; i++)
         {
-            if (toCompare.contains(names[i]))
+            if (copy.contains(names[i].toLowerCase()))
             {
                 return true;
             }
