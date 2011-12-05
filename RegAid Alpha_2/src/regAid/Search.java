@@ -16,14 +16,38 @@ public class Search
        for (int i = 0; i < size; i++)
        {
            for (int j = 0; j < majors[i].size(); j++)
-	   	  {
+	   {
                Class curr = majors[i].get(j);
-               if ((curr.getName().equals(toFind) || curr.getTeacher().equals(toFind) || curr.getClassType().equals(toFind)) || curr.getTime().equals(toFind))
+               if (NameEquals(toFind, curr.getName()) || NameEquals(toFind, curr.getTeacher()) || curr.getClassType().equalsIgnoreCase(toFind) 
+                       || curr.getTime().equalsIgnoreCase(toFind) || keywordFound(curr.getDescription(), toFind))
                {
                    foundItems.add(curr);
                }
            }
        }
        return foundItems;
+    }
+    
+    boolean keywordFound(String description, String keyword)
+    {
+        if (description.contains(keyword))
+        {
+            return true;
+        }
+        return false;
+    }
+    
+    boolean NameEquals(String name, String toCompare)
+    {
+        String copy = toCompare;
+        String[] names = name.split(" ");
+        for (int i = 0; i < names.length; i++)
+        {
+            if (toCompare.contains(names[i]))
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }

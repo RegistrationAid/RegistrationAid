@@ -25,7 +25,7 @@ public class AboutForm extends javax.swing.JDialog {
         initComponents();
         setLocationRelativeTo(null);
         setTitle("About");
-        this.setIconImage(Toolkit.getDefaultToolkit().getImage("src/RegAid/UW_Icon.gif"));
+      //  this.setIconImage(Toolkit.getDefaultToolkit().getImage("src/RegAid/UW_Icon.gif"));
     }
 
     /** This method is called from within the constructor to

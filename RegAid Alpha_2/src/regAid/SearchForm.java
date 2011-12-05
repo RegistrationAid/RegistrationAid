@@ -12,14 +12,10 @@ public class SearchForm extends javax.swing.JDialog
     String cssSyllabusInfo = "CSS_SyllabusInfo.txt";
     String busClassNames = "BUS_ClassNames.txt";
     String busSyllabusInfo = "BUS_SyllabusInfo.txt";
-    String engClassNames = "ENG_ClassNames.txt";
-    String engSyllabusInfo = "ENG_SyllabusInfo.txt";
     MajorArrayList CSS = new MajorArrayList(cssClassNames, cssSyllabusInfo);
     MajorArrayList BUS = new MajorArrayList(busClassNames, busSyllabusInfo);
-    MajorArrayList ENG = new MajorArrayList(engClassNames, engSyllabusInfo);
     buildList b1 = new buildList(CSS);
     buildList b2 = new buildList(BUS);
-    buildList b3 = new buildList(ENG);
 
     /** Creates new form SearchForm */
     public SearchForm(java.awt.Frame parent, boolean modal,
@@ -29,7 +25,7 @@ public class SearchForm extends javax.swing.JDialog
       this.gui2 = gui2; // !!
       initComponents();
       setTitle("Search");
-      this.setIconImage(Toolkit.getDefaultToolkit().getImage("src/RegAid/UW_Icon.gif"));
+   //   this.setIconImage(Toolkit.getDefaultToolkit().getImage("src/RegAid/UW_Icon.gif"));
       
    }
     /** This method is called from within the constructor to
@@ -46,12 +42,13 @@ public class SearchForm extends javax.swing.JDialog
         searchJTextField = new javax.swing.JTextField();
         searchJButton = new javax.swing.JButton();
         closeJButton = new javax.swing.JButton();
+        jComboBox1 = new javax.swing.JComboBox();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
         searchTitleJLabel.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        searchTitleJLabel.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        searchTitleJLabel.setText("<html>Enter One of the Following...<BR>Class Name,<BR>Class Type,<BR>Class Teacher,<BR> or Class Time</html>");
+        searchTitleJLabel.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        searchTitleJLabel.setText("Search For...");
 
         jTextField1.setText("jTextField1");
 
@@ -75,29 +72,38 @@ public class SearchForm extends javax.swing.JDialog
             }
         });
 
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Class Name", "Class Instructor", "Class Type", "Class Time" }));
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(searchJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 107, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(closeJButton, javax.swing.GroupLayout.DEFAULT_SIZE, 115, Short.MAX_VALUE)
-                .addContainerGap(30, Short.MAX_VALUE))
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
-                    .addComponent(searchTitleJLabel, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(searchJTextField, javax.swing.GroupLayout.DEFAULT_SIZE, 228, Short.MAX_VALUE))
-                .addContainerGap(30, Short.MAX_VALUE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(searchJTextField, javax.swing.GroupLayout.DEFAULT_SIZE, 221, Short.MAX_VALUE)
+                        .addContainerGap())
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jComboBox1, 0, 221, Short.MAX_VALUE)
+                        .addContainerGap())
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(searchJButton, javax.swing.GroupLayout.PREFERRED_SIZE, 107, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(closeJButton, javax.swing.GroupLayout.DEFAULT_SIZE, 108, Short.MAX_VALUE)
+                        .addContainerGap())
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(searchTitleJLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 201, Short.MAX_VALUE)
+                        .addGap(30, 30, 30))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(searchTitleJLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 83, Short.MAX_VALUE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(searchTitleJLabel)
+                .addGap(18, 18, 18)
+                .addComponent(jComboBox1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 17, Short.MAX_VALUE)
                 .addComponent(searchJTextField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)
@@ -126,13 +132,10 @@ private void searchJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN
         if (searchName.trim().length() == 0)
             throw new NullPointerException();
 
-      //  MajorArrayList[] lists = new MajorArrayList[3];
         MajorArrayList[] lists = new MajorArrayList[2];
         lists[0] = BUS;
         lists[1] = CSS;
-    //    lists[2] = ENG;
 
-    //    MajorArrayList search = new Search().Search(lists, 3, searchName);
         MajorArrayList search = new Search().Search(lists, 2, searchName);
         
         if(search.getSize() == 0)
@@ -163,6 +166,7 @@ private void searchJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN
      */
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton closeJButton;
+    private javax.swing.JComboBox jComboBox1;
     private javax.swing.JTextField jTextField1;
     private javax.swing.JButton searchJButton;
     private javax.swing.JTextField searchJTextField;
