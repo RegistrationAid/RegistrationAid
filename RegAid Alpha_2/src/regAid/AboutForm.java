@@ -52,7 +52,7 @@ public class AboutForm extends javax.swing.JDialog {
             }
         });
 
-        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14));
         jLabel1.setText("Project for CSS360 at UWB\n");
         jLabel1.setToolTipText("");
 
@@ -61,7 +61,7 @@ public class AboutForm extends javax.swing.JDialog {
 
         jLabel3.setText("<HTML>Created By:<BR>Shane Honanie<BR>Noel Hansen<BR>Justin Lee<BR>Kyle Patterson<BR>Matt Betsch<BR>Juan Martinez</HTML>");
 
-        jLabel4.setText("Beta v0.9");
+        jLabel4.setText("Release v1.00");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

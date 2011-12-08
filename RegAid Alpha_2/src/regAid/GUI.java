@@ -110,10 +110,6 @@ public class GUI extends javax.swing.JApplet
         jLabel2 = new javax.swing.JLabel();
         jLabel3 = new javax.swing.JLabel();
         jMenuBar1 = new javax.swing.JMenuBar();
-        fileJMenu = new javax.swing.JMenu();
-        searchMenuItem = new javax.swing.JMenuItem();
-        jSeparator1 = new javax.swing.JPopupMenu.Separator();
-        exitJMenuItem = new javax.swing.JMenuItem();
         viewJMenu = new javax.swing.JMenu();
         businessJMenuItem = new javax.swing.JMenuItem();
         cssJMenuItem = new javax.swing.JMenuItem();
@@ -168,39 +164,18 @@ public class GUI extends javax.swing.JApplet
             }
         });
 
-        jLabel1.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Cambria Math", 1, 14));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Majors");
 
-        jLabel2.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Cambria Math", 1, 14));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Syllabus Information");
         jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
 
-        jLabel3.setFont(new java.awt.Font("Cambria Math", 1, 14)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Cambria Math", 1, 14));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("Classes");
-
-        fileJMenu.setText("File");
-
-        searchMenuItem.setText("Search");
-        searchMenuItem.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                searchMenuItemActionPerformed(evt);
-            }
-        });
-        fileJMenu.add(searchMenuItem);
-        fileJMenu.add(jSeparator1);
-
-        exitJMenuItem.setText("Exit");
-        exitJMenuItem.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                exitJMenuItemActionPerformed(evt);
-            }
-        });
-        fileJMenu.add(exitJMenuItem);
-
-        jMenuBar1.add(fileJMenu);
 
         viewJMenu.setText("View");
 
@@ -377,10 +352,6 @@ private void cssJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
    majorsJList.setSelectedIndex(0);
 }//GEN-LAST:event_cssJButtonActionPerformed
 
-private void exitJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitJMenuItemActionPerformed
-    System.exit(0);
-}//GEN-LAST:event_exitJMenuItemActionPerformed
-
 private void searchJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchJButtonActionPerformed
     tempSearchForm = new SearchForm(null, true, this);
     tempSearchForm.setVisible(true);
@@ -394,10 +365,6 @@ private void aboutJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GE
     tempAboutForm = new AboutForm(null, true);
     tempAboutForm.setVisible(true);
 }//GEN-LAST:event_aboutJMenuItemActionPerformed
-
-private void searchMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchMenuItemActionPerformed
-    searchJButtonActionPerformed(evt);
-}//GEN-LAST:event_searchMenuItemActionPerformed
 
 private void businessJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_businessJMenuItemActionPerformed
     businessJButtonActionPerformed(evt);
@@ -439,8 +406,6 @@ private void lastJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN
     private javax.swing.JMenuItem businessJMenuItem;
     private javax.swing.JButton cssJButton;
     private javax.swing.JMenuItem cssJMenuItem;
-    private javax.swing.JMenuItem exitJMenuItem;
-    private javax.swing.JMenu fileJMenu;
     private javax.swing.JMenuItem firstJMenuItem;
     private javax.swing.JMenu helpJMenu;
     private javax.swing.JLabel jLabel1;
@@ -450,14 +415,12 @@ private void lastJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN
     private javax.swing.JPopupMenu jPopupMenu1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
-    private javax.swing.JPopupMenu.Separator jSeparator1;
     private javax.swing.JMenuItem lastJMenuItem;
     public javax.swing.JList majorsJList;
     private javax.swing.JMenu navigateJMenu;
     private javax.swing.JMenuItem nextJMenuItem;
     private javax.swing.JMenuItem previousJMenuItem;
     private javax.swing.JButton searchJButton;
-    private javax.swing.JMenuItem searchMenuItem;
     private javax.swing.JTextArea syllabusJTextArea;
     private javax.swing.JMenu viewJMenu;
     // End of variables declaration//GEN-END:variables
