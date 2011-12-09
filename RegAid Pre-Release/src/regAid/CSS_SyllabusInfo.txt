@@ -1,0 +1,2094 @@
+CSS 105 - Interdisciplinary Information Technology 
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Kim Gunnerson
+Quarter: Spring, 2011
+Office: UW1-349
+Office Phone: NA
+Email: gunnek@u.washington.edu
+
+
+
+Class Description: 
+
+Excursions into the characteristics, organization, and use of computers and computing. Designed for non-CSS majors. Topics vary, addressing social, scientific, ethical, and business underpinnings and implications of information technology.  Explores applications of computer technology to problem solving.  In addition, computer animation will be used as a technique to explore how computers can be used for creative pursuits. Does not count credit toward the CSS degree or CSS minor.
+
+
+Class Objectives:
+
+1.	Explore topics surrounding information systems.
+2.	Program within Alice® environment.
+3.	Use programming skills to create animations that explore applying creative solutions to problems.
+4.	Understand and practice programming as a tool for creativity
+
+Class Expectations:
+
+1.	Participation in class activities.
+2.	Timely completion of assignments.
+3.	Support a safe learning environment for all students.
+
+Blackboard and e-mail:
+
+All assignments will be posted on the class blackboard site.  You will need to create an account. The absolutely best way to get in touch with me is via my e-mail account.  I check it regularly and will respond within 24 hours of receiving a message (weekends that may extend to Monday) gunnek@u.washington.edu .
+
+Materials:
+
+You will need to always bring a thumb drive.  Sometimes, items saved on the classroom computers “disappear”. You only need to purchase one textbook for this class: Learning to Program with Alice 2nd Edition.  It should be available at the bookstore. You should bring this book to class each class time.
+ 
+Student Assessment:
+
+This table outlines the breakdown of how grades will be weighted for the 4 main assessment tools I will use in this class.  Note that both the modeling project and Alice® world project will have more detailed components that I will define more clearly when those assignments are made.
+
+Assessment Tool	Percent grade
+
+Homework/Quizzes	        15%
+In Class Activities	        10%
+Alice® World projects (3)	75%
+
+The following table shows how your total grade will be assigned to the UW decimal grade.  I reserve the right to give a higher grade than the one indicated in this table if I deem it is appropriate.
+
+	A Range	B Range	C Range	D range
+Letter	A	A-	B+	B	B-	C+	C	C-	D+	D	D-
+Min Decimal	3.9	3.5	3.2	2.9	2.5	2.2	1.9	1.5	1.2	0.9	0.7
+Min 100-pct	95	90	86	82	77	74	70	65	61	57	55
+
+In Class Activities:
+
+We will investigate some information technology topics each week via in class activities.  You will work in groups of 2 or 3 on these assignments and will submit some work for assessment on the subsequent class meeting date.  The activities will be posted on blackboard on the day of the assignment so that if you happen to miss the class you will have a chance to complete the work on your own time.
+
+Homework and Weekly Quizzes:
+
+For each chapter, you will be assigned homework. Homework will not be collected, however, quizzes will be scheduled for the due date for the homework that covers the associated material.  You will be allowed to use this homework on the associated quiz. There will be no make-up quizzes.  Your lowest quiz grade will be dropped.
+
+Alice® World Projects:
+
+The projects will be an opportunity for you to further develop your Alice programming skills while taking advantage of your own creative talents.  The first project will assess your ability to create a world and do some prescribed items.  The second project will be to create a game that allows for direct user participation.  For the final project, you will create an animated movie. The projects will be turned in via blackboard.  In addition, the final project will have a presentation component. During the last couple of class sessions, the animations will be presented to the entire class.   
+
+Incompletes: 
+
+University rules state that “an incomplete is given only when the student has been in attendance and has done satisfactory work until within two weeks at the end of the quarter and has furnished proof satisfactory to the instructor that the work cannot be completed because of illness or other circumstances beyond the student’s control.” We strongly discourage incompletes.
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 4.38
+The course content: 3.86
+Instructor's contribution: 4.20
+Instructor's effectiveness: 4.00
+Instructor's interest: 4.40
+Amount learned: 4.25
+Grading techniques: 4.25
+***
+CSS 161 – Fundamentals of Computing 
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Robert Nash
+Quarter: Spring, 2011	
+Email: rynn@u.washington.edu
+
+
+Course Content and Goals
+Introduction to programming concepts within social, cultural, scientific, mathematical, and technological concepts. Topics include programming fundamentals (control structures, data types and representation, operations, functions, and parameters), computer organization, algorithmic thinking, introdutory software engineering concepts (specifications, design, testing), and social and professional issues (history, ethics, and applications). 
+ 
+ 
+ 
+Textbooks
+•   Walter Savitch, Absolute Java,  4th edition, Addison-Wesley, 2007-2009.
+•   M. David Ermann and Michele S. Shauf, Computers, Ethics, and Society, 3rd edition, Oxford University Press, 2003.
+ 
+ 
+Grading
+Programming Assignments (6-8)                                            30%
+Midterm Exams (2)                                                        40%
+Final exam (1)                                                           25%
+Participation                                                             5%
+(An approximate scale of 90s (3.5-4.0), 80s (2.5-3.4), 70s (1.5-2.4), 60s (0.7-1.4) is used.)
+ 
+Participation and Attendance
+
+A percentage of the course grade comes from class participation, which can be summarized as the constructive involvement of a student during class.  Attendance is expected at all lectures, and this class’s policy is the same as the attendance policy outlined in the UWB handbook.  Usually, each class meeting contains information, handouts, assignments, etc. which are critical to the success of a student in CSS 161.  If a student misses a lecture, it is recommended that he/she talk to a fellow student who was present for the class.  Individuals will not receive extracurricular tutoring due to missed class; but of course, all students are welcome to visit with the instructor during office hours with questions about the material.  It has been proven in previous CSS courses that students who do not attend class do not succeed nearly as easily or frequently as those who do.
+ 
+ 
+Class Policies
+
+The labs are the only work items that can be completed by teams of two in this course.
+The homework assignments are designed to be completed independently, and all student handbook guidelines with regards to plagiarism apply to any student’s work here. Please be careful to follow UWB policies on academic and behavioral conduct: http://www.uwb.edu/students/policies/.  Each student should submit their own work without cloning it from another existing work, whether found online or in the classroom.  Violations of the student code of conduct will result in a zero score for that work.  
+ 
+ 
+Assignment Submission
+
+Assignments will eventually be turned in using Catalyst.  The submission site will close promptly at the start of class.  However, assignments can be turned in up to 5 days late with a 10% grade reduction per day, and there will be no extra credit given.  
+ 
+Exams
+
+Make-up exams will not be given in this class, unless something catastrophic occurs.  These events should be discussed with the instructor ahead of time, except in the case of an emergency (which should be well documented).  
+ _________________________________________________________________________________________________
+| Date	 |   Topic	                              |Reading	                      |Assignments|
+|----------------------------------------------------------------------------------------------   |
+|1st Day | Introduction & Intro to Java	              | Java Chapter 1	              |           |
+|2nd Day | OO Programming, Expressions and Assignments| Section 1.2, 1.3	      |           |
+|3rd Day | Program Style, Console I/O  Basics	      | Section  1.4, Section 2.1, 2.2| HW1 due   |
+|4th Day | Branching		                      | Section 3.1                   |           |
+|5th Day | Boolean Expressions		              | Section 3.2                   |           |
+|6th Day | Loops	                              | Section 3.3	              | HW2 due   |          
+|7th Day | More Loops & Debugging                     | Section 3.4	              |           |
+|8th Day | Midterm #1		                      |                               |           |
+|9th Day | Introduction to File I/O using Text Files  | Section 10.1, 10.2            |	HW3 due   |
+|10th Day| The String Class & Class Definitions	      | Section 1.3, 4.1	      |           |
+|11th Day| Classes	                              | Section 5.1, 5.2	      |           |
+|12th Day| Arrays	                              | Section 6.1, 6.2	      | HW4 due   |
+|13th Day| More on Arrays	                      | Section 6.3	              |           |
+|14th Day| Arrays  	 	                      |                               | HW4 due   |
+|15th Day| Multi-dimensional Arrays	              | Sections 6.1-6.3	      |           |
+|16th Day| Midterm #2	 	                      |                               |           |
+|17th Day| Concrete and Abstract Types	 	      |                               |           |
+|18th Day| Problem Solving;  more on Classes	      |	                              | HW6 due   |
+|19th Day| Special Topics: Recursion & Game Theory    |                               |           |
+|Final	 | Final Exam Week(in class)	 	      |                               |           |
+|_________________________________________________________________________________________________|
+ 
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 4.17
+The course content: 4.07
+Instructor's contribution: 4.10
+Instructor's effectiveness: 4.00
+Instructor's interest: 4.39
+Amount learned: 4.64
+Grading techniques: 4.06
+***
+CSS 162 – Programming Methodology 
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Robert Nash
+Website: http://courses.washington.edu/css162	Email: rynn@u.washington.edu
+Office: CSS Shared Faculty Office	Office Hours: Mon, Tues 5:15-5:45pm
+Quarter: Summer, 2011	Lecture:M,W 5:45-7:50p, Lab Tues 5:45-7:50
+ 
+ 
+
+Prerequisites
+
+To be adequately prepared, CSS 161 is required a minimum grade of 2.7. 
+Course Content and Goals
+This course is designed to facilitate a transition from basic programming skills to a rigorous process of software development.  You will become familiar with higher level programming techniques (recursion, generic programming) and constructs (object-orientation, lists, stacks, queues, searching, sorting, design patterns).  The connection between mathematical/algorithmic thought (logic, sets, functions, number bases) and implementation will be emphasized in this course.  
+ 
+ 
+Textbooks
+
+•   Walter Savitch, Absolute Java, Newest edition, Addison-Wesley, 2007.
+•   Kenneth H. Rosen, Discrete Mathematics and Its Applications, 6th edition, McGraw Hill, 2007.
+•   M. David Ermann and Michele S. Shauf, Computers, Ethics, and Society, 3rd edition, Oxford University Press, 2003.
+ 
+Grading
+
+Programming Assignments (6-8)                                            30%
+Midterm Exams (2)                                                        40%
+Final exam (1)                                                           25%
+Participation                                                             5%
+(An approximate scale of 90s (3.5-4.0), 80s (2.5-3.4), 70s (1.5-2.4), 60s (0.7-1.4) is used.)
+ 
+Participation and Attendance
+
+A percentage of the course grade comes from class participation, which can be summarized as the constructive involvement of a student during class.  Attendance is expected at all lectures, and this class’s policy is the same as the attendance policy outlined in the UWB handbook.  Usually, each class meeting contains information, handouts, assignments, etc. which are critical to the success of a student in CSS 162.  If a student misses a lecture, it is recommended that he/she talk to a fellow student who was present for the class.  Individuals will not receive extracurricular tutoring due to missed class; but of course, all students are welcome to visit with the instructor during office hours with questions about the material.  It has been proven in previous CSS courses that students who do not attend class do not succeed nearly as easily or frequently as those who do.
+ 
+ 
+Class Policies
+
+The labs are the only work items that can be completed by teams of two in this course.
+The homework assignments are designed to be completed independently, and all student handbook guidelines with regards to plagiarism apply to any student’s work here. Please be careful to follow UWB policies on academic and behavioral conduct: http://www.uwb.edu/students/policies/.  Each student should submit their own work without cloning it from another existing work, whether found online or in the classroom.  Violations of the student code of conduct will result in a zero score for that work.  
+ 
+Assignment Submission
+
+Assignments will eventually be turned in using Catalyst.  The submission site will close promptly at the start of class.  However, assignments can be turned in up to 5 days late with a 10% grade reduction per day, and there will be no extra credit given.  
+Exams
+Make-up exams will not be given in this class, unless something catastrophic occurs.  These events should be discussed with the instructor ahead of time, except in the case of an emergency (which should be well documented).  
+ 
+Courtesy & Technology
+
+We’ll use technology in this class only to facilitate the learning outcomes stated in the outline and this syllabus.  Thus, cell phones and pagers should be disabled, and the using of a laptop (or the terminal in front of you) should not distract anyone from what the class is currently working on (or should be disabled).  Conversations should be kept to a minimum as a courtesy to other students that are trying to learn.
+ 
+
+ 
+MessageBoard
+                https://catalysttools.washington.edu/gopost/board/rnash/22627
+ 
+Turnin Site
+                https://catalysttools.washington.edu/collectit/dropbox/rnash/16420
+
+Tentative Schedule:
+
+
+ ________________________________________________________________________________________
+|Date|	Topic	                           |     Reading	           | Assignments |
+|----------------------------------------------------------------------------------------|
+|6.22|	Introduction & Class definitions   |    Java 4.1	           |             |
+|6.27|	Encapsulation & Abstract data types|	Java 4.2	           |             |
+|6.29|	Overloading & Constructors	   |    Java 4.3-4.4, Ethics 9	   |             |
+|7.4 |	Propositional logic	           |    Math 1.1-1.4	           |  HW1 due    |
+|7.6 |	References & Class parameters	   |    Java 5.1-5.2	           |             |
+|7.11|	More references & packages	   |    Java 5.3-5.4, Ethics 16	   |  HW2 due    |
+|7.13|	Number bases	                   |    Math 3.6	           |             |
+|7.18|	Sets and functions	           |    Math 2.1-2.3	           |  HW3 due    |
+|7.20|	Inheritance & Exceptions	   |    Java 7.1, 9.1-9.2	   |             |
+|7.25|	Midterm	 	                   |                               |             |
+|7.27|	Recursion	                   |    Java 11.1-11.3, Ethics 11  |  HW4 due    |
+|8.1 |	Introduction to algorithm analysis |	Math 3.1-3.3	           |             |
+|8.3 |	Searching algorithms	 	   |                               |  HW5 due    |
+|8.8 |	Sorting algorithms	           |    Java 12.2	           |             |
+|8.10|	Interfaces & Arraylist	           |    Java 13.1-13.2, 14.1	   |             |
+|8.15|	Data Structures: stacks and queues |	Java 15.1, 15.4, Ethics 19 |  HW6 due    |
+|8.17|	Final Exam	 	           |                               |             |
+|TBA |	Collections & generics	           |    Java 14.2, 16.1-16.2	   |             |
+|________________________________________________________________________________________| 	 	 	 
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 3.50
+The course content: 3.75
+Instructor's contribution: 3.39
+Instructor's effectiveness: 3.21
+Instructor's interest: 3.70
+Amount learned: 3.64
+Grading techniques: 3.10
+***
+CSS 301 - Technical Writing for Computing Professionals 
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Dr. Laurie Anderson
+Quarter: Fall, 2011
+Office: UW1-349
+Office Phone: (425) 352-3594
+Email:landerson@uwb.edu
+
+
+
+Grading:
+Writing Assignments (5) [12% each]  60% 
+Midterm Exam 	                    20% 
+Final 	                            20% 
+
+Note: Students may not request individual extra credit opportunities. 	
+
+Texts 
+
+REQUIRED: Assigned reading through the library electronic reading 
+REQUIRED: Williams, Robin. The Non-Designer’s Design Book: Design and Typographic Principles for the Visual Novice. 3rd Edition © 2008 Peach Pit Press [ISBN 0-321-53404-2] 
+OPTIONAL: Hacker, Diana. Rules for Writers. 
+
+ASSIGNMENTS: 
+
+Assignments are due at the beginning of the class. No late assignments accepted. Given special conditions, you may receive permission to turn in your assignment late, by asking prior to the assignment due date. Because the writing process is an important learning goal, negative incentives are established: if no Draft assignment is turned in, you receive a 50% deduction from your final assignment grade. To facilitate grading, assignments are turned in on paper, printed single-sided. Bring two copies of your Draft papers to class on the day it is due. Turn-in your Final version (one copy) stapled to the back of my comments and your Draft version. Missing my comments from your Final version will result in a 20% deduction. 
+
+MISSED CLASSES: 
+
+-If you miss class, you are still responsible for turning in assignments on time and getting lecture notes from a classmate. If a paper is due, email me your assignment as an attachment.
+
+GRAMMAR HOMEWORK: 
+
+-Not graded; however, you are responsible for reviewing it. I’ve selected specific class days to handle questions, so bring your questions to class that day. You will see its content on the exams. Besides your work in this class should have impeccable grammar. 
+
+FOOD:
+
+-Snacking is permitted; however, please be courteous to everyone by avoiding crackling cellophane, and crunchy and odorous foods. Also please clean up after yourself. 
+
+ELECTRONIC DEVICES:
+
+-You may type notes in class, but please do not use technology to distract you from learning (i.e., no cell phones, email, IM, web surfing, games, etc.). 
+
+BACK UPS:
+
+-You are responsible for maintaining electronic back-up copies of all your work. 
+
+Schedule
+ ___________________________________________________________________________________________________________________
+|Date |	Assignment Due 	               |Reading Due (See electronic Library)| In-Class Activities                   |
+|_____|________________________________|____________________________________|_______________________________________|
+|9/28 | 	                       | “Memos” (Holloway) pp 47-49 	    | Syllabus; Discussion of Technical     |
+|     |                                |                                    | Writing and Assignment #1             |
+|10/3 |	Assign #1 (Per) Draft DUE      |	                            | Writing groups; Establish groups      |
+|10/5 |	                               | “Organizing your Information”      | Writing Compare and Contrast          |
+|     |                                | (Markel) pp 136, 138, 139 (top)    | Incorporating Tables                  |
+|     |                                | [about compare/contrast style]     |                                       |
+|10/10| Assign #2 (C/C) Draft DUE      |                                    | Technical Writing Process             |
+|     | Complete: Grammar HW#1 	       | (Gerson & Gerson) “What’s Technical| Revision Process;                     |
+|     |                                | Communications” pp 4-8 and “The    | Punctuation Review                    |
+|     |                                | Writing Process” pp 24-43 	    |                                       |
+|10/12| 	                           | “Resumes” (Holloway) pp 175-186| Resumes and Job Interviews            |
+|     |                                |                                    | (Speaker)                             |
+|10/17| Assign #1 (Per) Final DUE      | “Directions and Instructions”      | Writing Procedures and                |
+|     | Bring an instruction manual    | (Holloway) pp 79-97                | Instructions                          |
+|     | from a home appliance          |                                    |                                       |
+|     | Complete: Grammar HW#2 	       |                                    |                                       |
+|10/19| Complete: Grammar HW#3         | “Analyzing your Audience and       | Evaluating Audiences                  |
+|     |                                | Purpose” (Markel) pp 68-85         | Letters vs Memos (practice)           |
+|     |                                |“Letters, Memos, and Related Forms” |                                       |
+|     |                                |(Holloway) pp 39-61 	            |                                       | 
+|     |                                |                                    |                                       |         
+|10/24| Bring something that represents| Non-Designer’s Design Book         | Page Layout and Design:               |
+|     | good or bad CRAP principles    | [all of it] <Bring book to class>  | visual clarity                        |
+|     | Bring an electronical version  |                                    | Translating to MS Word                |
+|     | of CSS 301 assignment#2 or #3  |                                    | (meet in a computer lab)              |                        
+|10/26|	                               |“Visual Communications” (Sorby)     | Integrating Graphics & Graphics misuse| 
+|     |                                | pp 158-208 	                    | (meet in a computer lab)              |          
+|10/31| Assign #3 (Proc) Draft DUE     |                                    |                                       |
+|     | Complete: Grammar HW#4         | “Abstracts and Summaries” (Andrews)| Writing Summaries (practice)          |
+|     |                                | pp 281-293 	                    |                                       |
+|11/2 |	Assign #2 (C/C) Final DUE      |“Persuading and Proving” (Andrews)  | Writing Position Papers: outlines,    |
+|     |                                | pp 235-259 	                    | args Abstracts; Logic errors          |
+|11/7 |	(Optional) one 8 ½ X 11 sheet  |                                    | Open Note Midterm                     |
+|     | with your study notes 	       |                                    | (meet in a computer lab)              |
+|11/9 |	                               |                                    | Library Resources (speaker)           |
+|     |                                |                                    | (meet in the LB1-222)                 |
+|11/14| Assign #4 (Pos) Outline DUE    |                                    | Integrating information: Quotes &     |
+|     |                                |                                    | Paraphrasing                          |
+|11/16| Assign #3 (Proc) Final DUE     | “Organizing your Information”      | Organizing Information                |
+|     | Bring graded papers to class   | (Markel) pp 128-152 	            | Exercise: Common problem areas        |                    
+|11/21| Assign #4 (Pos) Draft DUE      |                                    | Cause/Effect & Problem/Solution Papers| 
+|11/23| Bring your resume (as is)      |[REVIEW] “Resumes” (Holloway)       | Resumes & Posters                     |
+|     |                                | pp 175-186 	                    |                                       |
+|11/28| Assign #5 P/S Draft DUE        | “Considering Style and Bias”       | Ethics at Work and in Writing         |
+|     |Scenario on separate page       | (Jones) pp 215-235 	            |                                       |
+|11/30| 	                       |“Writing Ethically” (Andrews)       | Ethics at Work and in Writing         |
+|     |                                | pp 38-56 	                    |                                       |
+|12/5 |	                               |                                    | Ethics at Work and in Writing         |
+|12/7 |	Assign #4 (Pos) Final DUE      |                                    | Course eval. Course review game;      |
+|     | Assign #5 (P/S) Final DUE      |                                    | Final practice                        |
+|12/12| (Optional) one 8 ½ X 11 sheet  |                                    | Open Note FINAL (same time)           |
+|     | with your study notes 	       |                                    | (meet in a computer lab)              |
+|___________________________________________________________________________________________________________________|
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 4.17
+The course content: 3.90
+Instructor's contribution: 4.33
+Instructor's effectiveness: 4.00
+Instructor's interest: 4.59
+Amount learned: 4.25
+Grading techniques: 4.25
+***
+CSS 342 - Mathematical Principles of Computing
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Michael Stiber
+Quarter: Fall 2011
+Office: UW1 - 360D 
+Office Phone: (425) 352-5280
+Email: stiber@u.washington.edu
+
+
+
+Basic Course Information:
+
+Along with CSS 343, this fast-paced course is intended to bring you up to speed so you can take Junior and Senior level CSS courses. 
+It does this by integrating the fundamental mathematics of computing with detailed instruction in program design. By the end of this quarter, 
+you will be familiar with much of the C++ language and the basics of object-oriented programming. You will understand how to analyze a 
+problem and design a solution. You will know many basic data structures, algorithms, and the tradeoffs among memory, running time, and 
+implementation time associated with them. Topics include: recursion, computational complexity and algorithm analysis, logic, mathematical 
+proofs and induction, lists, stacks, queues, sorting and searching, data abstraction, and object-oriented methods.
+
+
+Textbooks:
+
+    * Frank M. Carrano, Data Abstraction & Problem Solving With C++: Walls & Mirrors, Fifth Edition, Addison Wesley, 2007, ISBN 0-321-43332-7.
+    * Kenneth H. Rosen, Discrete Mathematics and Its Applications, Seventh Edition, McGraw Hill, 2012, ISBN 0-073-383090.
+
+Suggested Reading:
+
+    * Bruce Eckel, Thinking in C++, Second Edition, vols. 1 & 2, Prentice Hall, 2000. A good “from scratch” introduction to the language. Available for free in electronic form on-line at http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html.
+    * Bjarne Stroustrup, The C++ Programming Language, Third Edition, Addison-Wesley, 2000. The canonical reference. Make sure you get the third edition.
+    * Harley Hahn, Harley Hahn’s Student Guide to UNIX, 2nd edition, McGraw-Hill, 1996. If you’re unfamiliar with Unix or Linux and want to learn more, get a book like this.
+    * Herbert Schildt, STL Programming from the Ground Up, Osborne/McGraw-Hill, 1999. A very good introduction to the Standard Template Library, with lots of examples. However, it is not a reference; for example, it doesn’t provide complete lists of methods for each class.
+    * Nicolai M. Josuttis, The C++ Standard Library, Addison-Wesley, 1999. Much more of a complete reference than the Schildt book. Includes some examples, but is not intended as a tutorial.
+
+Grading:
+
+Your course average is computed as: 25% homework + 10% peer design reviews + 25% midterm + 30% final + 10% online contributionI don’t
+grade on a curve. I compute everyone’s quarter average based on the formula above. I then use my judgment to determine what averages 
+correspond to an ‘A’, ‘B’, etc. for the quarter. Some quarters’ assignments, etc. turn out harder, and so the averages are lower. Other
+quarters, averages are higher. I adjust for that at the end. Decimal grades are then computed using the equivalences in the Time Schedule,
+linearly interpolating between letter-grade boundaries. Furthermore, I am well aware of the significance of assigning a grade below 2.0, 
+in terms of impact on your career here at UWB. I can assure you that I examine in detail the performance in this course of each student 
+before assigning a grade below 2.0. What is the difference between this and grading on a curve? With the latter, the goal 
+is to have X% ‘A’s, Y % ‘B’s, etc. My way, I would be happy to give out all ‘A’s (if they were earned). FYI, in a “typical” quarter, 
+below 60% might be a ‘D’, 60%–75% a ‘C’, 75%–85% a ‘B’, and above 85% an ‘A’. You may use this as a rough guide; however, if you really 
+want to know how you’re doing, please see me. I reserve the right to adjust these scores to reflect the specifics of assignments, test
+questions, etc. for each quarter.
+
+Course “Rules”:
+
+The following is a brief summary of the most important things you can do to succeed in this class:
+
+    * Read the entire syllabus. Every word. Failure to follow instructions (for example, neglecting coding or documentation standards, trying to turn an assignment 
+	in the wrong way or after a deadline) will adversely impact your grade.
+    * I will not try force you to use any particular development environment. However, your programs must compile with g++ and run on the CSS Linux machines.
+	Please be advised that, if you use any other environment, it is possible that you will spend considerable extra time “porting” your code to the class compiler and 
+	computing environment. It is even possible that you will never get your program working. It is a worthwhile investment of your time for you to learn to use Unix 
+	and g++. If you use another development environment, then you assume all responsibility for getting your code running on the class computing platform; I will not
+	make exceptions and test programs otherwise.
+    * Similarly, there are certain class standards for documentation, including simple class diagrams. If the tool you use does not produce diagrams that look 
+	like the class requirements, please find another tool. Neat hand drawings are perfectly acceptable.
+    * You are responsible for making back-up copies of your work. Disk crashes, etc. are not acceptable reasons for extensions of assignment due dates. 
+	Note that your Linux and UW IT home directories are professionally backed up; free services such as Dropbox are also useful in this regard.
+    * Assignments are due when specified. Barring illness or similar extenuating circumstances, please do not attempt to submit amendments, bug fixes, 
+	or forgotten material after the fact.
+    * While I do not formally require your attendance in class, participation in peer design reviews is a portion of your grade. Additionally, I will
+	assume that you are cognizant of everything that is covered in class, including clarifications of programming assignments, changes in due dates, etc.
+	Material covered in class is fair game for assignments and tests, regardless of its absence from the textbooks.
+    * I may use email to communicate with you. It is your responsibility to ensure that email to your UW account reaches and is read by you. Note that 
+	the UW course listserve will only accept messages from addresses that are on the official list. So, if you forward your UW email, you will still need 
+	to send email messages to the listserve from your UW account. According to my experience in previous quarters, your UW email is almost certainly more 
+	reliable than any free account (e.g., Hotmail).
+
+Graded Activities:
+
+As indicated under “Grading”, above, your grade in this class is computed from a weighted average of five different activities during this quarter. 
+You are of course familiar with tests; below I describe the others.
+
+Online Contribution:
+
+We will be making heavy use of the course discussion forum to provide a means for out-of-class, in-depth discussion, either of topics I select or of
+questions/comments by fellow students. I will generate a new thread for each week — some I will kick off with a question or other material to get the
+conversation started, and some wil merely be available for conversations surrounding the homework, tests, or whatever is going on in class that week. It 
+is your responsibility to make valuable contributions to at least some of the conversations during the quarter (I will place a guide to what makes a 
+contribution valuable elsewhere on the course web site). At the end of the quarter, you will be asked to submit your two best posts as evidence of your
+contribution; your contribution grade will be computed from those.
+As an alternative to a forum post, you may substitute a substantive, non-duplicative entry into the CSS Wiki. Presumably, this entry will cover
+some aspect of using the CSS computing infrastructure, of workflow hints for inter-operation of your home computing environment with that in the CSS program, etc.
+
+Homeworks:
+
+We will have both written exercises and programming assignments. While all programming assignments will have a value of 100 points, 
+the value of written exercises will vary (likely in the range of 15–30 points). Subsequent sections of this syllabus carefully spell out (in detail)
+both the procedures for program submission and the content of what you should submit. Please read the syllabus carefully. If there is anything you 
+don’t understand or are not sure about ask me. I will assume that you have done so, and will mark off if what you submit does not match what is required.
+
+Programming Assignments:
+
+The philosophy behind the programming assignments is to exercise your growing abilities to solve problems using computers. Note that I do not say to 
+exercise your programming ability; I assume that, though you may be a beginner, you are basically familiar and comfortable with the process of writing 
+and debugging software. In this class, you will learn about a variety of problem-solving tools: algorithms and data structures 
+(taken together, abstract data types), approaches (for example, recursion), and mathematical techniques to compare and develop new algorithms 
+(algorithm analysis, logic, mathematical induction, etc). The homeworks are explicitly designed to be substantial — they will require you to use what
+you learn in a systematic manner. As an example, imagine that we have just covered the topic of lists, and in class discussed a list of integers. I would
+not assign a homework that has you implement a list of strings. The point of learning about lists would be to understand them so that you can use 
+them to solve problems (and to know when they are appropriate for use). Therefore, a more suitable assignment would be one in which you are asked to
+implement a simple text editor, which internally might use a list to hold the lines of text. This would allow you to investigate how a generic abstract
+data type’s capabilities can be related to the specific functionality of a particular program.
+
+Assignments will be due at specific dates and times. I will not accept any lateness in this class — if your assignment is submitted even a few minutes 
+late, it will not be graded, and you will receive a zero for that assignment. In fact, we will be using the UW Collect It system, which will not accept 
+late submissions. Except for special circumstances, such as medical and other emergencies, no exceptions will be made to this policy 
+(this includes crashed/eaten/lost disks — make frequent backups). You are more than welcome to submit work before the due date.
+
+We will be dividing assignments into two phases, and you will be responsible for completing each phase by the indicated deadline. 
+Because of the amount of material and the tight timing of the quarter, it is absolutely essential that you carefully read and follow the procedures
+in this syllabus. I will present an initial assignment description during class and will expect you to commence on the assignment immediately. 
+I make these assignment purposefully vague and incomplete in certain respects. The two phases are “specification and design” and “implementation”; 
+they are graded separately — the former as part of a peer design review and the latter in testing by me.
+
+   1. It will be your task during the initial specification and design phase (see “Specification and Design,” later) to define the problem to be 
+   solved and produce a solution. This will involve identifying where the original assignment description is incomplete, and at the next class 
+   meeting, asking questions to clarify matters so you can finalize the specification. Your specification and design will be due one week after 
+   the assignment is handed out. I will assign you in class into groups for a peer design review, we will discuss the assignment and design 
+   issues together as a class, and then you will hand in your designs so you may receive credit. Your name, student number, and email address
+   should be written on your hard copy submissions. Please strive to either write/draw clearly or use a computer and high-quality printer to 
+   prepare your documentation; I cannot give you credit for what I cannot read.
+
+      Note that this represents one-half of the time allotted to your programming assignment. Therefore, before handing in your preliminary 
+	  specification and design, you should ask yourself, “Does this represent 50% of the work I’ll do on this program?” 2. At this point, you 
+	  will have roughly a week to implement your design. You will submit your program using the UW Collect It system. The Collect It area will
+	  only accept tar or zip files, and the submission size is strictly limited, so please submit only source code. I will unpack your 
+	  submission in a directory dedicated to your assignment, compile all of the .cpp files into a single executable, and test it. Testing 
+	  will be performed using g++ on one of the 320 lab Linux machines. It is your responsibility to ensure:
+          * That, when unpacked, all of your files will be present, in a the same directory as the archive (i.e., the archive should only 
+		  contain files, not a subdirectory), and have appropriate capitalization (Unix is case-sensitive; Windows is inconsistent regarding
+		  case sensitivity. If I need to manually rename all your files, I will reduce your program grade). I suggest that you test to make
+		  sure that your submission workflow is correct by transferring your archive file to one of the CSS Linux machines, unpacking it, checking
+		  that all of the files are present in the same directory (and not a subdirectory), and then compiling it and running it.
+          * That any long lines in your software are neither truncated nor wrapped.
+          * That your program will compile using g++ on a CSS Linux machine using g++. The course web site and CSS wiki has information about
+		  lab 320, Linux, and Unix. g++ is our course compiler; if you choose to use another compiler, then be forewarned that you have made
+		  a decision that may increase the time it takes for you to complete the assignment (as you may need to modify your code to get it 
+		  working under g++). If you make that decision, please be responsible for the outcome — do not expect that I will take into 
+		  consideration that it compiled and ran under another compiler.
+          * That the input your program expects and the output it produces exactly matches the specifications in the assignment.
+          * That your name and student number are in a comment in each source file.
+          * That you follow all other coding conventions outlined below.
+
+I allocate credit based on your coding style, your documentation, and on your program’s execution characteristics (“correctness”, 
+determined by black-box testing). For example, if your program does not compile under g++, you will receive zero points for correctness. 
+I will run your program against a set of test cases (which I will not release ahead of time); partial credit will be awarded if it passes
+only some of them. I will not debug your program or try to figure out why it doesn’t work — partial credit only comes from passing test
+cases. Any other way of assigning partial credit would, in my opinion, be unfair: based more on my debugging ability than the qualities
+of the program. Because of this, I require you to design your program before you write code, and I strongly urge you to implement your
+program in stages, so that you always have a partially working version. If you use a development environment other than g++, then I suggest
+that you periodically move your code to a machine that has g++ to compile and test it (again, I do not endorse the approach of using 
+another compiler, I am merely suggesting prudent practice). Of course, I am more than happy to meet with you about your program before 
+or after the due date.
+
+Program Grading. Generally speaking, adherence to coding standards will be worth 15% and 
+program correctness (in other words, does it work?) 85%. However, depending on the specific nature of each assignment, 
+the exact percentages (and any other aspects’ weights) may change. One example of this would be an assignment including 
+a significant written portion.
+
+
+
+Collaboration:
+
+Unless you are specifically involved in a group activity, you are expected to do your work on your own. If you get stuck, 
+you may discuss the problem with other students, provided that you don’t copy code from them. Programming assignments must be 
+developed and written up independently. You may always discuss any problem with me. You are expected to subscribe to the highest 
+standards of honesty. Failure to do this constitutes plagiarism. Plagiarism includes copying assignments in part or in total, 
+debugging computer programs for others, verbal dissemination of algorithms and results, or using solutions from other students, 
+solution sets, other textbooks, etc. without crediting these sources by name. Plagiarism will not be tolerated in this class, 
+any more than it would be in the “real world”. Any student guilty of plagiarism will be subject to disciplinary action. 
+Please believe me, neither you nor I want to go through an academic misconduct hearing.
+
+Class attendance:
+
+I strongly encourage you to come to class. You will be held responsible for all material covered in class, regardless of 
+its presence (or lack thereof) in the textbook or web site. Additionally, a portion of your grade depends on participation in
+in-class activities, such as laboratory exercises.
+
+Problems:
+
+If you have problems with anything in the course, please come and see me during office hours, make an appointment to see me at some
+other time, or send email. I want to make you a success in this course. If you have trouble with the assignments, see me before they
+are due. If you fall behind, it will be difficult to catch up. 
+
+Tentative Schedule:
+ __________________________________________________________________________________________
+|Date | Topics                          | Reading                | Assignment			   |
+|------------------------------------------------------------------------------------------|
+|9/29 | Welcome; Linux, development     | Carrano, Ch. 1, App. A | Program 1 assigned	   |
+|     | tools, & C++; software engineer-|						 |                         |
+|     | ing principles				    |						 |						   |
+|10/4 | Recursion; Recurrence relations | Carrano, Ch. 2, App. D;| Program 1 peer design   |
+|     | & induction proofs			    | Rosen, Ch. 5           | review                  |
+|10/6 | Recursion as a problem solving  | Carrano, Ch. 5		 | Program 2 assigned;     |
+|	  | technique						|						 | Written HW 1 assigned   |
+|10/11| Abstraction & OOP in C++ 		| Carrano, Ch. 3         | Program 1 due           |
+|10/13| Linked list implementation &    | Carrano, Ch. 4         | Program 2 peer design   |
+|	  | memory management				|						 | review; Written HW 1 due|
+|10/18| Stacks: implementation and ap-  | Carrano, Ch. 6		 | Program 3 assigned      |
+|	  | plications						|						 |						   |
+|10/20| Queues: implementation and ap-  | Carrano, Ch. 7         | Program 2 due		   |
+|	  | plications						|						 |						   |
+|10/25| C++ objects, classes, and OO de-| Carrano, Ch. 8         | Program 3 peer design   |
+|     | sign							|						 | review				   |	 			
+|10/27| Algorithm analysis 				| Carrano, x 9.1; 	     | Written HW 2 		   |
+|     |                                 | Rosen, Ch. 3   	     | assigned				   |
+|11/1 | Midterm review 					|						 | Program 3 due		   |
+|11/3 | Midterm							| 						 |						   |
+|11/8 | Sorting 						| Carrano, x 9.2         | Program 4 assigned;     |
+|	  |									|						 | Written HW 2 due        |
+|11/10| Sorting, cont'd 				| Carrano, x 9.2         |						   |
+|11/15| Propositional & predicate logic | Rosen, Ch. 1           | Program 4 peer design   |
+|	  |									|						 | review; Written HW 3    |
+|     |									|						 | assigned                |
+|11/17| Logic, cont'd 					| Rosen, Ch. 1           |						   |
+|11/22| Trees 							| Carrano, Ch. 10        | Program 4 due; Program  |
+|	  |									|						 | 5 assigned; Written HW  |
+|	  |									|						 | 3 due                   |
+|11/24| Thanksgiving					|						 |						   |
+|11/29| Trees, cont'd 					| Carrano, Ch. 10	     | Program 5 peer design   |
+|     |									|						 | review                  |
+|12/1 | Mathematical foundations        | Rosen, Ch. 2 	         | Written HW 4 assigned   |
+|12/6 | Math foundations, cont'd        | Rosen, Ch. 2           | Program 5 due; Written  |
+|     |									|						 | HW 4 due                |
+|12/8 | Course wrap-up					|						 |						   |
+|12/13| Final							|						 |						   |
+|__________________________________________________________________________________________|
+***
+CSS 343A - Data Structures and Algorithms
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Dr. Carol Zander
+Quarter: Fall, 2011
+Office: UW1-353
+Office Phone: (425) 352-5276
+Email: zander@u.washington.edu
+
+
+
+Course description:
+
+This sequenced course integrates mathematical principles with detailed instruction in computer programming. Topics
+include development of algorithms; algorithm analysis; object-oriented programming; abstract data types including
+trees, priority queues, graphs, and tables; regular expressions and context-free grammars.
+
+Prerequisites: CSS 342 with a grade of 2.0 or better.
+
+Grading: 
+
+Assignments  35% Assignments consist of problems and programs.
+Midterm exam 30% A scale of 90s (3.5-4.0), 80s (2.7-3.4), 70s (1.8-2.6),
+Final exam   35% 60s (0.7-1.7) is approximately used.
+
+Textbooks: 
+
+(1). Data Structures and Problem Solving Using C++, 2nd ed., Mark Allen Weiss, Addison-Wesley
+(2). Discrete Mathematics and Its Applications, 6th ed., Kenneth Rosen, McGraw-Hill
+(3). A C++ book of your choice if needed
+
+Some C++ Books:
+
+• C++ How to Program, H.M. Deitel and P. J. Deitel, Addison-Wesley
+• C++ In Plain English, Brian Overland, Wiley
+• The C++ Programming Language, 3rd edition, Bjarne Stroustrup, Addison-Wesley
+
+References:
+
+• More Effective C++: 35 New Ways to Improve Your Programs & Designs, Scott Meyers, Addison-Wesley
+• Effective C++: 50 Specific Ways to Improve Your Programs & Designs, Scott Meyers, Addison-Wesley
+
+Policies:
+
+Work is to be done independently unless directed otherwise; collaboration of work is NOT acceptable. You may discuss
+the problem statement with each other and help debug, but all designing and coding is to be done independently. Any pair
+programming must be approved by me. This class is run by honor code. By taking this class, you agree that you will not
+collaborate inappropriately on any work. In some cultures, family relationships and their loyalty are considered above all
+others. In this course, we are an academic family and you betray the instructor’s and the university’s trust should you
+violate the honor code. This violation will be taken seriously. 
+
+Computer use during lecture is limited to taking notes. No social networks, email, games, etc. You are not allowed to
+display any images on your screen during lecture as it is distracting to your neighbors trying to learn. And no phone use.
+
+Any homework is due at the beginning of class on the due date. Late assignments receive a grade of zero (unless we
+have spoken about the circumstances and prior arrangements have been made). No make-up exams will be given except
+under exceptional circumstances.
+
+Course goals:
+
+Refining and extending the concepts and skills introduced in CSS342, students develop competencies associated with
+problem-solving, design, testing, and programming techniques. Topics include ADTs, data structures, related algorithms,
+and object-oriented design & programming. Formal automata theory as it applies to programming languages is
+introduced. Good software engineering and algorithm analysis techniques are used throughout. As with most technical
+courses, besides ability and motivation, it takes time to learn and master the subject. Expect to spend an average of 10
+to 15 hours a week outside of class time for this course; some of you may spend more, some less time.
+
+Assignments:
+
+- Follow any special directions for turn-in given on an assignment. Always turn in an electronic copy of your source
+code (only .h and .cpp files) and other files asked for using catalyst. The dropboxes for assignments are linked
+from the course web site.
+- Your code should compile and run properly using the unix g++ compiler.
+- Coding and documentation style guidelines can be found linked off the assignments page at
+http://courses.washington.edu/css343/zander/style.html
+- Syntax errors and run-time errors with not much output yield a low grade. Run-time errors or incorrect
+answers will result in a significant number of points being deducted from your grade. In other words,
+CHECK YOUR ANSWERS!!!!!!
+Otherwise, you will be graded on documentation (clarity and completeness), style (indentation and use of blank
+lines/spaces), meaningful identifier names, organization of your program (modularity/design), efficiency (no
+useless, unnecessary, or unnecessarily complicated code), output (clarity and format), the overall readability,
+and following directions. 
+
+Schedule
+ _______________________________________________________________________________________________
+|Date | Topic                        | Material                               | Assignment Due  |
+|-----------------------------------------------------------------------------------------------|
+|9/29 | Preliminaries, Review,       | C++ 2,6                                |                 |
+|     | Trees                        | C++ 13.1, 18, 19.1-19.3, Math 10.1-10.3|                 |
+|10/4 | Trees continued              |                                        |                 |
+|10/6 | Priority queues, Binary Heaps| C++ 7.9(STL), 21.1-21.6                | Lab 1 Due       |
+|10/11| ^Continued^                  |                                        |                 |
+|10/13| Graphs                       | C++ 15 Math 9.1-9.4, 9.6, 10.4         |                 |
+|10/18| Graphs continued             |                                        |                 |
+|10/20| Graphs continued             |                                        | Lab 2 Due       |
+|10/25| Balance Trees, Retrieval     | C++ 19.4, 19.8                         |                 |
+|10/27| Trees continued              |                                        |                 |
+|11/1 | Trees continued              |                                        | Lab 3 Due       |
+|11/3 | Midterm Exam                 |                                        |                 |
+|11/8 | Inheritance/Polymorphism     | C++ 4                                  |                 |
+|11/10| ^Continued^, Hash Tables     | C++ 20                                 |                 |
+|11/13| Last day to drop             |                                        |                 |
+|11/15| Hash Tables continued        |                                        |                 |
+|11/17| Inheritance/Polymorphism     |                                        | Lab 4 Design Due|
+|11/22| Language intro               | Math 12.4                              |                 |
+|     | Regular expressions          |                                        |                 |
+|11/24| Thanksgiving                 |                                        |                 |
+|11/29| Finite Automata              | Math 12.3                              |                 |
+|12/1 | Context-free grammars        | Math 12.1                              |                 |
+|12/6 | Turing Machines              | Math 12.5                              |                 |
+|12/8 | Last day stuff               |                                        | Lab 4 Due       |
+|12/13| Final Exam                   |                                        |                 |
+|_______________________________________________________________________________________________|
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 4.31
+The course content: 4.27
+Instructor's contribution: 4.50
+Instructor's effectiveness: 4.50
+Instructor's interest: 4.70
+Amount learned: 4.33
+Grading techniques: 4.27
+***
+CSS 343B - Data Structures and Algorithms
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Dr. Clark F. Olson
+Quarter: Winter 2011
+Office: UW1 - 347
+Office Phone: (425) 352-5288
+Email: cfolson@u.washington.edu
+
+
+
+Course content:
+
+This is the second course in a two-part sequence that integrates mathematical principles with programming concepts. Topics to be covered include:
+•	Abstract data types – trees, priority queues, graphs, heaps, and tables
+•	Object-oriented programming and design, including inheritance and polymorphism
+•	Modeling computation – regular expressions, finite state machines, context-free grammars, and Turing machines
+•	Algorithm development and analysis – Huffman’s algorithm, Dijkstra’s algorithm, etc.
+
+Textbooks Required:
+
+•	Mark Allen Weiss, Data Structures and Problem Solving Using C++, Second edition, Addison-Wesley, 2000.
+•	Kenneth H. Rosen, Discrete Mathematics and Its Applications, Sixth edition, Addison-Wesley, 2007.
+•   You may also want to have a C++ reference book.
+
+Grading
+Assignments:	30%		
+Midterms:	    40%
+Final exam:	    30%
+
+I typically use a linear grading scale such that: 75% = 2.0, 85% = 3.0, 95% = 4.0. This may be adjusted to the difficulty level of the exams given in this class. To be successful you should expect to spend 10-20 hours per week working outside of the classroom.
+
+Class policies:
+
+Assignments are due prior to class on the due date. The submission site will close promptly at the start of class. There will be no individual extensions. Assignments can be turned in up to 2 days late (including weekends) with a 10% grade reduction per day. Assignments will be turned in using Catalyst.
+
+ 
+Assignments are to be completed independently (unless otherwise noted). Be very careful to adhere to the student code of conduct. Violations of the student code of conduct will result in a zero score.
+
+ Make-up exams will not be given except under extraordinary circumstances. These should be discussed with the instructor in advance, except in the case of an emergency, which should be well documented.
+
+Schedule:
+(subject to change)
+_____________________________________________________________________________________
+|Date|  Topic	                      |      Reading	             | Assignments   |
+|____|________________________________|______________________________|_______________|
+|1/4 |	Introduction, review	      |                              | HW1 assigned  |
+|1/6 |	Trees	                      |  Weiss 18, Rosen 10.1	     |               |
+|1/11|	Binary search trees	      |  Weiss 19.1-19.3, Rosen 10.3 | HW1 due, HW2  |
+|1/13|	Tree applications	      |  Weiss 11.2, 13.1, Rosen 10.2|	             |
+|1/18|	Graphs	                      |  Weiss 15.1-15.3, Rosen 9    |               |
+|1/20|	Graphs	                      |  Rosen 10.4-10.5	     | HW2 due, HW3  |
+|1/25|	Priority queues, binary heaps |	 Weiss 7.9, 21.1-21.6	     |               |
+|1/27|	Midterm		              |                              |               |
+|2/1 |	Inheritance, polymorphism     |  Weiss 4	             |               |
+|2/3 |	Object-oriented design 	      |                              | HW3 due, HW4  |
+|2/8 |	Hash tables		      |  Weiss 20                    |               |
+|2/10|	Balanced search trees	      |  Weiss 19.4-19.8	     |               |
+|2/15|	Balanced search trees	      |                              |               |
+|2/17|	Design reviews		      |                              | HW4 design due|
+|2/20|	Last day to drop	      |                              |               |
+|2/22|	Midterm		              |                              |               |
+|2/24|	Languages and grammars        |  Rosen 12.1, 12.4	     |               |
+|3/1 |	Finite state machines	      |  Rosen 12.2-12.3	     |               |
+|3/3 |	Project day or snow day makeup|		                     |               |
+|3/8 |	Turing Machines	              |  Rosen 12.5                  | HW4 due       |
+|3/10|	Review / catch-up	      |                              |               |
+|____________________________________________________________________________________|
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 4.20
+The course content: 4.28
+Instructor's contribution: 4.67
+Instructor's effectiveness: 4.73
+Instructor's interest: 4.33
+Amount learned: 4.19
+Grading techniques: 4.33
+***
+CSS 350 - Management Principles for Computing Professionals
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Mark Kochanski
+Quarter: Fall 2010
+Office: UW2 - 345
+Office Phone: (425) 352-3240
+Email: markk@u.washington.edu 
+
+
+
+Learning Objectives
+
+    * Define the role and purpose of management and leadership in organizations
+    * Understand the relationships between individual and organization-- goals, culture, communication, and structures
+    * Describe theories and best practices related to organizations, motivation, leadership, and decision making and their applicability to software teams
+    * Use management principles to assess key issues an organization
+
+Grading
+Individual Activities 	50%
+Group Participation 	25%
+Final Exam 	            25%
+
+Individual Project:
+
+Each week may include one or more individual in-class exercises, homework assignments, quizzes, or other activities to prepare for upcoming class discussion. An activity may be based on class readings before they are discussed in class. Activities may be either required (graded) or optional (bonus).
+
+Group Participation:
+
+We will explore a number of topics through role playing, small group discussion, and exercises requiring group participation. Written assignments for group exercises will be due the next class unless other scheduled when the assignment is handed out. You will be expected to be an equal participant throughout the quarter. Your individual group participation grade will be based on your group total adjusted for self and peer assessment of your effort over the quarter.
+
+Exams:
+
+An exam will consist of short answer and essay questions. Exam questions may be based on case studies discussed in class or introduced specifically for the exam. Exams will cover all materials from lecture, textbooks, related readings, and assignments.
+
+Textbooks and Readings:
+
+    * Tucker, McCarthey, & Benton. The Human Challenge: Manging Yourself and Others in Organizations, 7th Edition, Pearson Education, 2003.
+    * Katz. The Human Side of Managing Technological Innovation, 2nd Edition, Oxford University Press, 2004.
+    * Additional Readings: Various articles, papers, and publications available through the internet or electronic reserve. Many of the links may use off-campus access of library resources. This reading list may be updated throughout the quarter.
+
+Tentative Schedule:
+ __________________________________________________________________________________
+|Date |	 Topic 	                        |  Activities                              |
+|_____|_________________________________|__________________________________________|
+|9/29 |	Introduction 	                | Group Activity: Organizational Role Play |             
+|10/4 |	Management Theories / People CMM| Class Activity: Technology Organizations |
+|10/6 |	Organizational Culture 	        | Group Activity: Organizational Culture   |
+|10/11| Individuals and the Organization|	                                   |
+|10/13| Organization Structure 	        | Group Activity: Organizational Structure |
+|10/18| Communication 	                | Group Activity: Job Descriptions         |
+|10/20| Organizational Challenges 	|	                                   |
+|10/25| Motivation Theories             | Quiz: Organizations                      |
+|     |                                 | Bonus Due: Self-Test                     |	
+|10/26| Motivation Theories  	        |	                                   |
+|11/1 | Motivation Theories  	        |	                                   |
+|11/3 | Motivation Theories  	        |	                                   |
+|11/8 | Best Practices for              | Group Acitivity: Best Practices          |
+|     | Innovation and Teams  	        |	                                   |
+|11/10| Best Practices for              | Quiz: Motivation and Innovation          |
+|     | Innovation and Teams  	        |	                                   |
+|11/15| Leadership Strategies 	        |	                                   |
+|11/17| Leadership Strategies 	        |	                                   |
+|11/22| Decision Making 	        |	                                   |
+|11/24| Performance and Growth  	|	                                   |
+|11/29| Performance and Growth 	        |	                                   |
+|12/1 | Organizational Change/Assessment| Class Activity: Apprentice  	           |
+|12/6 |	Organizational Assessment 	| Group Activity: Organizational Assessment|
+|12/8 |	Organizational Assessment 	| Group Activity: Organizational Assessment|
+|12/13| 	  	                | Group Activity: Performance Appraisals   |
+|     |                                 | Final Exam                               |
+|__________________________________________________________________________________|
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 3.11
+The course content: 3.31
+Instructor's contribution: 3.13
+Instructor's effectiveness: 3.11
+Instructor's interest: 3.06
+Amount learned: 3.11
+Grading techniques: 3.38
+***
+CSS 360 - Software Engineering
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Hazeline U. Asuncion
+Quarter: Fall 2010
+Office: UW1 - 333 
+Office Phone: (425) 352-3720
+Email: hasuncion@uwb.edu 
+
+
+
+Course Catalog Description: 
+
+Surveys the software engineering processes, tools, and techniques
+used in software development and quality assurance. Topics include life-cycle models, process
+modeling, requirements analysis and specification techniques, quality assurance techniques,
+verification and validation, testing, project planning, and management.
+
+Course Prerequisites:
+
+CSS 301, which may be taken concurrently; either CSS 263, CSS 341 or CSS 342 which may
+be taken concurrently; may not be repeated.
+
+Textbooks:
+
+Required: Software Engineering, 9th ed., Ian Sommerville, Addison-Wesley, 2011.
+Software Engineering A Practitioners Approach, 7th ed., Roger Pressman, McGraw Hill,
+2010
+Pressman Software Engineering web page URL:
+
+http://highered.mcgraw-hill.com/sites/0073375977/student_view0/index.html
+
+Pressman Software Engineering Professional Resources page, accessible from the home
+page: http://highered.mcgrawhill.com/sites/0073375977/student_view0/professional_resources.html
+
+Required electronic reserve readings will be assigned. http://eres.uwb.edu/
+
+Lecture slides will be posted right before class.
+
+Evaluation and Grading
+
+The student’s final grade will be based on the following
+	* Weekly short quizzes (lowest score will be dropped) 15%
+		o From previous week’s material
+	* Midterms                                            20%
+	* Finals                                              25%
+	* Group Work (application of concepts )               35%
+    * Class participation, small assignments               5%
+		o Short weekly write-ups at the end of class
+		
+Group Work:
+
+A multi-part group project will give you an opportunity to apply the concepts covered in class.
+Each group member will be given an opportunity to provide feedback to me regarding the
+relative contributions of each of the group members. I will use this collective feedback when
+assigning term project grades to individual group members.
+
+Keeping in Touch:
+
+Check the course website often. Assignment descriptions and lecture notes will be posted on
+the site. When you send an email, make sure to include “CSS360” in the Subject field.
+Otherwise, I may not respond to your email.
+You are also welcome to submit your questions to the class bulletin board.
+
+Late Policy:
+
+Deliverables must be completed on the specified due date unless you make prior
+arrangements with me.
+The late penalty for all deliverables is 10% per day. If you hand your deliverable at any time
+between the due date and the next 24 hours, you will receive a maximum grade of 90 (out of
+100).
+Since most of your deliverables will be in terms of your term project with your team, there
+should be no reason for submitting a late assignment.
+
+Missed Exams:
+
+No make-ups, except in exceptional situations (and be prepared to offer any supporting
+documentation I ask for). If you know ahead of time that you have scheduling conflicts, e.g.
+work-related, see me ahead of time so that you can take the exam prior to the scheduled date.
+No make-ups for quizzes. The lowest quiz score will be dropped.
+
+Electronic Devices:
+
+No electronic devices during quizzes and exams. Laptops may be used for taking notes or inclass
+exercises.
+
+
+Course evaluations:
+
+5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+The course as a whole: 3.17
+The course content: 3.19
+Instructor's contribution: 3.27
+Instructor's effectiveness: 2.83
+Instructor's interest: 3.25
+Amount learned: 3.13
+Grading techniques: 3.11
+***
+CSS 421 - Introduction to Hardware Architecture and Operating Systems
+University of Washington, Bothell - Computing & Software Systems
+
+Instructor: Rob Nash
+Quarter: Fall 2010
+Office: NA
+Office Phone: NA
+Email: rynn@u.washington.edu
+
+
+
+Course Content and Goals:
+
+CSS 421 is an introductory course in the fundamentals of digital hardware, the architecture of modern
+microprocessors, assembly language programming and modern operating systems. 
+This course will provide students with the basic theories and concepts of how hardware and software cooperatively interact to accomplish real-world tasks. 
+Elements of the hardware development such as instruction set architecture, memory and I/O organization will be examined in the 
+context of modern operating systems fundamentals such as task management, memory management, file systems and Interrupt handling. 
+Also, differences between the modern CISC and RISC architectures will be examined in the context of the assembly language instruction sets required to 
+support today’s high-level languages. Finally, we'll look at special topics such as caches and virtual memory management, and future trends in computer design.
+
+We will first explore the elements of the modern computing system at the level of the logic gate. 
+We’ll go down to the level of the bits, bytes and clocks to examine how the basic blocks of the computer work
+together. This will lead us to look at the algorithmic state machine and how it enables a computer actually work. 
+This low-level analysis will get us ready to look at assembly language.
+
+Next, we’ll examine three popular microprocessor architectures, namely, ARM, 80X86 and 68K and learn
+how to write some assembly language programs in each of the architectures. Our working with assembly 
+language will provide the insight into how modern operating systems deal with the real world through its
+drivers and interrupt handler routines. Finally, focus our attention to the operating systems themselves. 
+We’ll examine the elements of modern operating systems and learn the fundamentals of abstraction, task and 
+resource management. We’ll also look at the differences between popular real-time and desktop operating systems.
+
+Prerequisites:
+
+A minimum grade of 2.0 is required in CSS 301 and CSS 263 (or CSS 342).
+
+Textbooks:
+
+- Hardware and Computer Organization: The Software Perspective, Arnold S. Berger
+
+- Understanding Operating Systems, Ann McIver McHoes and Ida M. Flynn
+
+- Motorola 68000 Programmer's Reference Manual (Provided free to you)
+
+ 
+
+Grading:
+
+Programming Assignments (6-8)            24%
+Midterm Exams (1)                        24%
+Final exam (1)                           24%
+Research paper                           20%
+Participation                             8%
+
+(An approximate scale of 90s (3.5-4.0), 80s (2.5-3.4), 70s (1.5-2.4), 60s (0.7-1.4) is used.)
+
+ 
+
+Participation and Attendance:
+
+	- A percentage of the course grade comes from class participation, which can be summarized as the constructive 
+involvement of a student during class.  Attendance is expected at all lectures, and this class’s policy is the 
+same as the attendance policy outlined in the UWB handbook.  Usually, each class meeting contains information, 
+handouts, assignments, etc. which are critical to the success of a student in CSS 421.  If a student misses a 
+lecture, it is recommended that he/she talk to a fellow student who was present for the class.  Individuals will
+ not receive extracurricular tutoring due to missed class; but of course, all students are welcome to visit with 
+ the instructor during office hours with questions about the material.  It has been proven in previous CSS courses
+ that students who do not attend class do not succeed nearly as easily or frequently as those who do.
+
+ 
+Class Policies:
+
+	- The homework assignments are designed to be completed independently, and all student handbook guidelines 
+with regards to plagiarism apply to any student’s work here. Please be careful to follow UWB policies on academic
+and behavioral conduct: http://www.uwb.edu/students/policies/.  Each student should submit their own work 
+without cloning it from another existing work, whether found online or in the classroom.   Citations must be 
+used in code or in the report, and you shouldn’t reuse another student’s work for this.  Violations of the 
+student code of conduct will result in a zero score for that work. 
+
+Assignment Submission:
+
+	- Assignments will eventually be turned in using Catalyst.  There will be a 20% penalty for late work, as assessed by the instructor.  
+The submission site will close promptly at the start of class or on the same date at midnight. 
+
+Exams:
+
+	- There is one midterm and one final for this course.  Make-up exams will not be given in this class, unless 
+something catastrophic occurs.  These events should be discussed with the instructor ahead of time, except in the 
+case of an emergency (which should be well documented). 
+
+Software:
+
+	- We’ll be using a few different ISA simulators throughout the course, each of which is free.  See the included 
+software with the Berger text or our website to download these items.
+***
+CSS 422/B EE 422 - Introduction to Hardware and Computer Organization
+Quarter: N/A
+
+Instructor: Arnold S. Berger, PhD
+Office: BB-255
+Office hours: Generally, one hour before class, After class, Always by appointment
+Phone: 425-352-5463
+E-mail: aberger@u.washington.edu
+	
+
+
+I. Introduction and learning objectives
+An introductory course into the fundamentals of digital hardware, the 
+architecture of modern microprocessors and assembly language 
+programming. This course will provide students with the basic theories 
+and concepts of how hardware and software cooperatively interact to 
+accomplish real-world tasks. Elements of the hardware development such as 
+instruction set architecture, memory and I/O organization will be examined in 
+the context of modern computer system fundamentals such as memory management, 
+Algorithmic State Machines and Interrupt handling. Also, the differences between 
+the CISC and RISC architectures will be examined in the context of their assembly 
+language instruction sets and the compiler technology required to support them. 
+Finally, we'll look at special topics such as caches and virtual memory management, 
+and future trends in computer design. We will first explore the elements of the 
+modern computing system at the level of  the logic gate.  We’ll go down to the 
+level of the bits, bytes and clocks to examine how the basic blocks of the 
+computer work together. This will lead us to look at the algorithmic state 
+machine and how it enables a computer actually work.  
+This"down and dirty" analysis will get us ready to look at assembly language.
+Next, we’ll write some assembly language programs and then map these programs 
+onto their analogs in higher level languages, such as C or C++. Working with 
+assembly language will provide the insight into how modern operating systems 
+deal with the real world through its drivers and interrupt handler routines.
+Finally, we’ll take a step back and study the modern computer architectures of 
+CISC and RISC. This naturally leads us to look at pipelines, caches and virtual 
+memory management.
+
+Learning objectives for this course:
+ - Demonstrate the ways that the atomic elements of computer hardware, logic 
+gates, are used, and detail the rules that govern their operation,
+ - Understand the electronic circuit basis for modern computer systems,
+ - Learn the principles of Boolean Algebra to manipulate and simplify logical equations and convert them to electronic gate circuits,
+ - Develop familiarity with the concepts of synchronous logic and how it forms the basis for the operation of computer systems,
+ - Be able to create simple state machines and abstract their operation to the operation of a computer system,
+ - Understand the logical operation of memory systems and be able to design simple memories,
+ - Describe the relationship between a computer's instruction set architecture and its assembly language instruction set,
+ - Be able to write significant programs in assembly language,
+ - Understand how real-world devices are interfaced to a computer system,
+ - Learn the principles of pipelines and virtual memory.
+
+
+V. Grading
+The grading for the course will depend upon the following elements:
+	-6 homework assignments (~25%). The 7th homework assignment won't be graded
+	-Midterm examination (~25%)
+	-Final examination, covering from the midterm (~25%)
+	-Course project (~25%)
+	-Class participation (+ 0-5%)
+Sometimes a student may disagree with the grader's assessment of their work on a 
+homework assignment or on an examination. If you disagree with your grade please 
+bring the homework or examination issue to my attention. I will review it and I will 
+either correct it, reject it, or pass it back to the grader to reconsider. In any case, 
+I have the final say. 
+At this time, there is no grader for this class. However, this may change.
+
+
+VI. Project
+A significant effort will be involved in the class project. Projects are done in 
+2 or 3-person teams. The largest team may be three students, so if your study group 
+has four students in it, you'll have to split up to do the project.
+The project is the capstone element of the course. It is designed to bring together 
+the following elements:
+
+ - Developing an architectural understanding of a popular computer architecture through the design of its instruction set,
+ - Solidifying your command of assembly language coding methods
+ - Working as a team in order to accomplish a major coding effort,
+ - Setting expectations for team behavior and deliverables (just like in real life),
+ - Developing and specifying group coding standards,
+ - Managing version control issues.
+The project begins just after the midterm examination and is due at the final 
+examination, however, some leeway is available with the consent of the instructor.
+
+
+VII. Homework
+Homework assignments are an integral part of the course and are designed to emphasize 
+the material covered in classroom discussions. Assignments are weekly at the beginning 
+of the course but become bi-weekly as the course progresses. See theschedule page for 
+the due dates of the homework assignments. You may see the assignments by browsing to 
+the homework section of the web site.
+Unless other arrangements are made with the grader or the instructor, homework is 
+considered late if it is not turned in at the beginning of the class on the day its due. 
+There will be a 20% penalty assessed for late homework. A late homework will no longer 
+be accepted after the solutions to the homework have been posted to the class web site.
+
+
+VIII. Lectures
+All the lectures are available to the students as MS PowerPoint presentations.  
+The have been zipped together using WinZip and may be downloaded at your convenience. 
+My expectation is that you will have reviewed the day's lecture material before coming 
+to class. Past experience has shown that if you print the lectures out as note pages with 
+one slide per page, you will have ample room to take notes on the class room discussion and 
+jot down any questions that you might have prior to coming to class.
+
+
+IX. Texts
+There are no required text books. The suggested books are:
+ - Hardware and Computer Organization: The Software Perspective, Arnold S. Berger, ISBN 0-7506-7886-0 1
+ - 68000 Family Assembly Language, Alan Clements, PWS Publishing Company, ISBN 0-534-93275-4
+ - An Embedded Software Primer, by David E. Simon, ISBN-0-201-61569-X(see below)
+ - 68000 Programmer's Reference Manual 2
+1- Book chapters are available on the course web site.
+2- Available on Freescale Semiconductor's web site or you can grab a copy here.
+A student in a previous CSS422 class felt that Simon's text was very helpful. It is the 
+assigned text for CSS427, Introduction to Embedded Systems, so if you are planning on 
+taking that course as well, you might be ahead if you bought the book sooner rather than later.
+Additionally you may want to purchase other books. The 68000 microprocessor family is one of the 
+most popular devices ever made and there are many good books written about it and programming for it. 
+See some of the links I've posted for other places to go surfing.
+
+
+X. Software
+There are at least four free simulators that you can use for this course. Also, machines 
+at school are equipped with a commercial grade hardware simulator called Digital Works, 
+that is also available in a free version: 
+(http://www.spsu.edu/cs/faculty/bbrown/circuits/howto.html ). However, the free version 
+probably will not run on any current version of the Windows O/S.  Another hardware 
+simulator  that we've used with good success is Logisim. You can down load it at 
+http://ozark.hendrix.edu/~burch/logisim/. Logisim is a Java applet and is quite flexible. 
+It also has a few features that the students seem to prefer over Digital Works. I prefer 
+DW because it's been around longer and I'm use to it, although I've used both simulators and they work just fine.
+The standard software simulator for this course is called Easy68K.  It was developed by Professor Chuck Kelly of Monroe County Community College, in Monroe, Michigan. This simulator seems to have fixed a lot of the quirks of the Teesside simulator as well as added some very nice enhancements, so I recommend that you use Easy68K as your simulator of choice. Also, the source code to the simulator is available on Professor Kelly's website, so if you are really inspired, you may feel free to download it and add your personal touch. Another feature that makes Easy68K an attractive alternative is that there is a very active user's forum that supports it, so if you are having a problem, there is likely to be someone out there who can help you.
+
+
+XI. List server
+There will be a class list server for the class. You can post a note to the list server 
+by sending it to CSS422SP11@u.washington.edu. This is the preferred method of e-mail 
+communications between myself and the class. Any message posted to the list server 
+will be sent to all students on the list. Generally, I will not answer questions sent 
+directly to me, unless they are of a personal nature. I will redirect them to the list 
+server. After a while I will not respond at all to course-content questions, so if you 
+send me an e-mail and I don't answer you, please repost to the list server.
+Also, in general, I will not open unsolicited files that have been sent to me by e-mail. 
+Please make arrangements with me first before you send me a file, otherwise it goes right to the bit-bucket.
+
+
+XII. Attendance
+I usually don't take attendance, however, I may, from time to time, reserve the right to 
+take attendance or note who's in class. If you miss a class session you are still 
+responsible for all the material covered in that lecture. You are responsible for all 
+assigned reading even if it is not explicitly covered in class. Also, class 
+participation can enhance your grade. If you're going to come to class and then 
+tune-out, quite frankly, you're wasting your time. Your time is your most valuable 
+asset, don't waste it. Although attendance does not count towards your final grade, 
+class participation can count in a positive way. If you're not here, you can't participate.
+Be aware that lecture notes, though often quite detailed, are really general topic 
+headings. Not everything covered in the class discussion is guaranteed to be in the 
+published notes. Also, administrative information may not appear on the web site.
+Finally, expectations for behavior in class are no different than expectations for 
+behavior in the real world. Meeting rooms at many high-tech companies often have a 
+posted list of meeting expectations and behaviors. 
+My expectations are as follows:
+ - Come to class on time and ready to participate. If you are late, I reserve the right to ask you to leave and return in an hour when the class takes a mid-lecture break.
+ - Come prepared for the day's lecture
+ - Come to order promptly
+ - No web surfing, instant messages, or e-mail during class
+ - In particular, turn off all cell phones and pagers
+ - Return promptly from mid-class breaks
+ - Only one person has the floor at any time
+ - Raise your hand to be recognized
+ - Meeting manager (me) reserves the right to cut off discussion until a more appropriate time
+ - No phones, pagers, children or pets
+A special word about cell phones: A cell phone that rings during class is indicative of 
+the highest level of bad manners. When your cell phone rings you are disrupting the 
+class. I will take particular note of the owner of a ringing cell phone.
+Laptops, whether plugged into the network, or wireless, should only be used for 
+activities directly related to this class. If you must surf the internet,
+do instant messaging or send e-mail then please leave the room.
+
+
+XIII. Caveats
+1. I don't know everything there is to know about computer architecture and I don't 
+pretend that I do. If I can't answer a question I will take it as an action item and 
+research the answer.
+2. I sometimes make mistakes (usually during the second hour of the lecture)
+3. There are sometimes errors in the PowerPoint slides. I try to point them out during class.
+4. I can't read your mind. If you don't understand something then it is your 
+responsibility to make me aware of it. It is your tax dollars at work. My responsibility 
+is to guide you to an understanding.
+5. There are no dumb questions. If you don't understand something, chances are that 
+there are others in the class in the same situation as you. Your classroom is the most 
+benign environment for you to feel comfortable with what you don't understand. I strongly 
+encourage you to ask a question when the lecture doesn't make sense to you.
+6. Class participation is strongly encouraged and rewarded. Class discussion is how you 
+can prevent me from covering too much material at one time. The slides are up there, 
+without questions I just keep going. Class participation is fundamental to the learning 
+process. It is not designed to put you on the spot.
+7. The textbook, handouts, lectures and homework are complementary. Each covers the 
+course material from a different perspective. Sometimes they may overlap, sometimes they 
+cover different material.
+Last revision: 3/22/11   
+
+
+
+Course Evaluation Scores
+				5	4	3	2	1	0	Median
+__________________________________________________________________________________________
+The course as a whole:		9%	42%	16%	26%	7%	0%	 3.53
+The course content:		16%	40%	26%	16%	2%	0%	 3.65
+Instructor's contribution:	28%	28%	23%	19%	2%	0%	 3.71
+Instructor's effectiveness:	14%	30%	26%	19%	9%	2%	 3.27
+Instuctor's interest:		11%	27%	25%	20%	9%	7%	 3.05
+Amount learned:			18%	34%	25%	18%	5%	0%	 3.57
+Grading techniques:		5%	30%	16%	20%	14%	16%	 2.50
+
+For median calculation:   5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+***
+CSS 430 - Operating Systems
+Quarter: Winter 2011 
+
+InStructor: Munehiro Fukuda 
+Office: room UW1-331
+office hours: TTh 230-330pm
+Phone: 352-3459
+Email: mfukuda@u.washington.edu
+
+ 
+
+Course Description: 
+This course introduces the logical design of operating systems, especially focusing on the design in Java.
+Topics covered include processes, threads, CPU scheduling, synchronization, deadlocks, memory management, virtual memory,
+file systems, I/O systems, protection, and security used in the popular desktop and real-time operating systems. 
+
+Prerequisites: 
+CSS343. 
+
+Work Load and Grading: 
+Course Work 		Percentage	Achievements 	Approximately Corresponding Numeric Grade 	
+____________________________________________________________________________________________
+Assignment 1 		8% 		90s		3.5 - 4.0
+
+Assignment 2 		8%		80s		2.5 - 3.4
+ 
+Assignment 3 		8% 		70s		1.5 - 2.4 	
+
+Assignment 4 		8% 		60s 		0.7 - 1.4 
+
+Final Project 		18% 
+  
+Class Discussions 	4% 
+
+Midterm Exam 		23%
+ 
+Final Exam 		23%
+ 
+ 
+Textbooks: 
+Operating System Concepts with JAVA, Eighth edition, Abraham Silberschatz, Peter Galvin, and Greg Gagne, Addison-Wesley, 2009. 
+A Java book of your choice. 
+
+
+Some Java Books: 
+Absolute Java, 3rd Edition, Walter Savitch, Addison-Wesley, 2007. 
+Java How to Program, Deitel & Deitel, Eighth Edition, Prentice Hall, 2009. 
+
+
+References: 
+Addison-Wesley's Interactive Linux Tutorial and Reference Edutrends, 2001 
+Understanding the Linux Kernel, Daniel P. Bovet and Marco Cesati, O'Reilly, 2000 
+The Design of the Unix Operating Sytem, Marice J. Bach, Prentice Hall, 1987 
+Advanced Programming in the Unix Environment, 2nd Ed, W. Richard Stevens, Addison Wesley, 2005 
+Java Threads, 3rd Edition, Scott Oaks and Henry Wong, O'Reilly, 2004 
+
+
+Policies: 
+All programs except the final project are to be done independently. Any collaboration of work will result in severe penalty.
+You may discuss the problem statement and any clarification with each other, but any actual work to be turned in, must be done without collaboration. 
+The final project may be done by a team of two, (or three students if you cannot find a single partner), in which case each student must achieve an equally amount of work. 
+(If you work with other two students, you must explain the reasons in your report, otherwise you will 
+receive only 2/3 of the full score.) For the detailed instructions, see the project assignment sheet. 
+Any homework is due at the beginning of class for both its hardcopy and softcopy on the due date. Both copies must be submitted.
+The submission may be postponed only in emergencies such as accidents, sickness, sudden business trips, and family emergencies, in which case you may turn in your homework late with a written proof.
+No make-up exams will be given except under exceptional circumstances. Barring emergencies, I must be informed before the exam. 
+
+
+Course Goals: 
+The overall goal of CSS 430 is to learn fundamemtal concepts that are used in and applicable to a variety of operating systems.
+The course consists of three major concepts: 
+(1) process management that schedules, executes, synchronizes with events, and terminates your application programs, 
+(2) memory management that loads your programs in memory and allocates/deallocates memory space they requested dynamically, and 
+(3) file system that provides the mechanism for on-line storage of and access to both data and programs residing on the disks. The course also covers protection, (and security if time is allowed)
+which are essential to have the modern operating systems work in the Internet computing world. Through the course, we will use Java to illustrate many operating-system concepts.
+Using Java, you will implement each concept of process management, memory management, and file system. As with most technical courses, besides ability and motivation, it takes time to learn and master the subject.
+Expect to spend an additional 10 to 15 hours a week outside of class time on the average. 
+
+
+Assignments: 
+Assignments are due at the beginning of lecture for both your hardcopy and softcopy on the specified date. 
+No late programs will be accepted unless you provide me with a proof showing that you have been under an emergency circumstance. No matter the circumstances, it is always best to turn in something.  
+Click here to know the details of the programming environments, the assignment specifications, the submissin procedure (for both hardcopy and softcopy), and the grading criteria. 
+
+
+Class Discussions: 
+Each chapter has its own lecture slides in a ppt file that includes one or more discussion topics and non-turn-in exercises.
+The class is divided into groups of 4 or 5 students, each discussing about a different topic for several minutes and presenting the dicussion summary in the class. 
+We are planning to have eight or more class discussions through the quarter, although not having scheduled specific discussion dates yet. 
+Your participation in each discussion counts 0.5% of your entire grade, which ends up with 4% by attending minimum eight discussions. 
+If we eventually have more than eight dicussions and you attend all of them, you will receive extra credits. 
+A discussion group will be dynamically formed in the class. For instance, students sitting closer or on the same desk can form a group. 
+I will give each group a piece of scratch paper or transparency. You should summarize your discussions, write down the names of all group members, and turn it in to me. Each group should elect a group representative who will give a short presentation in the class. A representative will be rewarded with 0.1 extra credits for his/her presentation. 
+
+
+Catalyst EPost (Message Board) 
+You can access CSS430 GoPost to exchange messages with your classmates. Please use this board for only dicussions. No junk email. 
+Note that the professor may not keep track of all messages. 
+
+
+Topics covered and tentative 430 schedule: 
+Note that this is an approximate ordering of topics. Chapters will take about the allotted time and not all sections in all chapters are covered. 
+
+
+
+
+Week 		Topics 				Chapters	Reading 	Assignment		
+ 
+1 		Introduction			1		pp3-47		Program 1 assigned
+  
+		OS Structures  			2		pp49-100
+		In-class Linux 
+		lab orientation 	
+
+2 		Processes			3		 pp103-152			
+
+
+3 		Threads 			4 		pp153-192 		
+
+		CPU Scheduling 			5		pp193-239	Program 1 due
+										Program 2 assigned 
+4 
+  
+		Process 			6 		pp241-312 			
+		Synchronization 	
+
+5    
+		Deadlocks 			7		pp313-347	Program 2 due		
+ 										Program 3 assigned 
+6  		Midterm exam in class 		1 - 7		pp3-347		
+ 
+		Main Memory 			8		pp351-391	
+  
+7  
+		Virtual Memory 			9		pp393-457	Program 3 due 
+										Program 4 assigned 
+8   
+		File-System Interface 		10 		pp461-500	
+
+9 		File-System 			11 		pp501-549 	Program 4 due 	
+		Implementation							Project assigned
+
+		Final Project Explanation 
+    
+10 		Protection 			14 		pp637-665 	
+
+		Review & wrap-up 
+   
+11 		Final exam in class 		8 - 11, and 	pp351-540 and	
+						14		637-665  
+11  										Final project due at 3:30pm 
+										Submit a report to UW1-331 
+  
+  
+  
+
+
+
+
+Course Evaluation Scores
+				5	4	3	2	1	0	Median
+__________________________________________________________________________________________
+The course as a whole:		20%	54%	23%	0%	3%	0%	 3.95
+The course content:		23%	54%	20%	3%	0%	0%	 4.00
+Instructor's contribution:	27%	45%	24%	0%	3%	0%	 4.00
+Instructor's effectiveness:	29%	29%	26%	14%	0%	3%	 3.75
+Instuctor's interest:		32%	38%	29%	0%	0%	0%	 4.04
+Amount learned:			32%	38%	26%	3%	0%	0%	 4.04
+Grading techniques:		38%	29%	29%	3%	0%	0%	 4.10
+
+For median calculation:   5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+***
+CSS 451 - 3D Computer Graphics 
+Quarter: Winter 2010 
+
+Instructor: Kelvin Sung 
+Office: UW1-339
+Office Hours: W 1:00-3:00 pm Or by appointment 
+Phone: (425)-352-5420 (phone for appointments only please) 
+Email: ksung@u.washington.edu 
+
+
+
+We will be learning: 
+In this course, we will learn some of the practical and popular three dimensional (3D) graphics
+algorithms. The foundation mathematics required will be studied. This quarter we will concentrate
+on studying the fundamentals of rendering algorithms. We will begin with low level foundations by 
+examining the essence of image generation: 3D viewing, sampling, filtering, illumination computation, 
+texture mapping, etc., based on the classical all software ray tracing approach. During the second half 
+of the quarter, we will examine these same concepts based on popular GPUs. For example, we will study how 
+to take advantage of modern graphics hardware in generating: per-pixel illumination computation, transparency,
+reflection, shadow, etc. in real time. 
+
+Prerequisites: CSS 343 or equivalent. 
+
+Grading: 
+Programming Assignments (4-5) 	~55% 
+Weekly short quizzes 		~20% 
+Final Project 			~25% 
+In class participation 		~5% 
+
+
+Books
+
+Required Text:  
+Please refer to class web-site, required readings will be posted. 
+
+Required Readings: 
+A. An Introduction to Ray Tracing, ed. Andrew Glassner, Academic Press, 1990. 
+	1.  Chapter 1: An Overview of Ray Tracing by Andrew Glassner 
+	2. Chapter 2: Essential Ray Tracing Algorithms, by Eric Haines 
+B. Practical Ray Tracing in C, Craig Lindley, John Wiley & Sons, Inc., 1992. 
+	1.  Chapter 2: Introduction to Ray-Tracing Theory 
+C.Real-Time Rendering, Third Edition, Tomas Akenine-Moller and Eric Haines, AK Peters, 2008. 
+	1. Chapter 5: Illumination and Image Reconstruction 
+	2. Chapter 6: Texturing 
+	3. Chapter 2 and 3: Rendering Pipeline and GPU 
+	4. Chapter 9.1: Shadows 
+D. Graphics Shaders: Theory and Practice, Mike Bailey and Steve Cunningham, AK Peters, 2009. 
+	1.  Chapter 1 and 2 
+E. Interactive Computer Graphics – A Top-Down Approach With OpenGL, fourth edition, Edward Angel, Addison Wesley, Boston, 2006. 
+	1.  Chapter 6 (Shading) (Added: Jan 12) 
+
+Recommended Reference Texts: 
+Essentials of Interactive Computer Graphics, Kelvin Sung, Peter Shirley, Steven Baer, Wellesley, MA., A K Peters Ltd, 2008. 
+Fundamentals of Computer Graphics, second edition, Peter Shirley, Wellesley, MA, A K Peters Ltd. 2005. 
+Real-Time Rendering, Third Edition, Tomas Akenine-Moller and Eric Haines, AK Peters, 2008.
+
+Other Reference Texts: 
+Computer Graphics – with OpenGL, third edition, Donald Hearn and Pauline Baker, Prentice Hall, 2004. 
+Interactive Computer Graphics – A Top-Down Approach With OpenGL, fourth edition, Edward Angel, Addison Wesley, Boston, 2006. 
+Introduction to Computer Graphics, James Foley, Andries Van dam, Steven Feiner, John Hughes, and Richard Phillips, Addison Wesley, 1994. 
+
+
+Schedule:
+
+Week 	Topics 				Reading			Note:	
+
+1 	Intro + Vector Math 		B1 (P65 – 83) 		Assign: MP #1 
+	3D Viewing and Camera 
+
+
+2 	Ray Tracing Framework 		A1 	
+	Sampling 
+  
+3 	Illumination Equation 		B1 (P89 – 105) 		Due: MP #1 
+					C1 (P99 – 116) 		Assign: MP #2 
+					E1 
+
+4 	Texture Mapping 		A2 (Sections on 	Due: MP #2 
+					inverse mappings) 	Assign: MP #3    
+					C2 
+
+5 	Filtering and 			C1 (P116 – 145)		Due: MP #3 
+	Image Reconstruction 					Assign: MP #4   
+ 
+
+6 	Shadows 			C4 		 	Assign:  Final Project
+	The Rendering Pipeline 		C3 		
+
+7 	Fragment and Pixel Shading 	D1 			Due: MP #4 
+								Due: Final project proposal 
+								Assign:  MP #5 
+
+8 	GLSL + HLSL: 
+	Per Shading Computation 	Handout 		Due: MP #5
+ 
+
+9 	Hardware Buffers: 		Handout			Due: Final project research presentation	
+	Stencil/Blending 
+	Final Project: 
+	research presentation 
+
+10 	Final Project: 
+	research presentation 
+	SIGCSE Conference:  (no class) 
+ 
+11 	Final’s Week: 						Due: Final Project in class 
+	Project Demo & Presentation 	
+
+
+
+Submitting Programming Assignments (MPs): 
+Submitting Source Code: You will submit your source code of each programming assignment (or
+machine problem, or mp) and I will run/test your submissions. We will be using the web-based 
+catalyst submission facility. There is a folder with the corresponding mp number on the 
+submission site (e.g. mp1, mp2, etc.). Before the due time of the assignment, you should: 
+
+Create a folder containing all the relevant source files of your mp and no more. Having extra 
+useless/irrelevant files in that folder will results in lost credits. Please clean up Debug, Release 
+folders (or bin/obj folders for C#) before you copy your files over. These folders can be huge and 
+will take up unnecessary time/space. WARNING: 3% of each mp’s grade will be deducted if your 
+submission includes the contents of Debug or Release folders, or any useless files (e.g.,.ncb, etc.) 
+Use your first and last name and mp# as the name of your folder. Please do not include blank 
+space  as part of the name for this folder (i.e. do use “KelvinSungMp1” as folder name, and do 
+not use “Kelvin Sung MP1” with blank spaces.) Please zip up our folder into one zip file.  Go to 
+our course submission area and “turn in” you .zip file. 
+
+Submit as many times as you wish (you may have to use different names), I will only look at the 
+last one received before the deadline. Please do not submit hard copies of your program. Let’s 
+safe some trees, I will look at your source code electronically. 
+			
+There is a “Test Turn-in” assignment for you to try things out. Please do try it before the first MP 
+due date! If I do not see a test submission and you have trouble submitting your first assignment 
+at the last minute, I will not help you. I can only help those who tried. 
+
+In addition, and very importantly, you should always download your submission, 
+un-zip/compile/run to ensure your submission is correct. Remember, the grader (and/or I) will 
+download your submission, unzip, double-click on the .sln file to compile and run. You will lose 
+credits if anything in your submission should prevent us from automating this process. 
+
+You are responsible to ensure that the files you submitted are correct. On the due date of the mp, 
+the corresponding directory will be close at precisely the due time. After which, youwill not be 
+able to submit your work! I will not accept submissions via emails. You are responsible to ensure 
+that the files you submitted are correct. Minor submission mistakes (e.g. missed a small .h file) will 
+result in 10% deduction from the assignment. Major submission mistakes (e.g. forgot to include a 
+major .cpp file) will be treated as in-complete assignment and you will get 0% for the assignment. 
+On a case-by-case basis, I will decide if a submission mistake is minor or major. There will be no exceptions! 
+
+If there is an emergency and/or personal difficulty, please talk to me in person. Remember to 
+document your code, and practice the good programming skills you learned in CSS 343. 
+
+
+General Policies: 
+Assignment Deadlines: There will be no late assignments accepted. Let me put this in another 
+way, there will be no late assignments accepted. These apply to both homework assignments and 
+machine problems. Pay attention to the deadline on the assignments (including the time), there will 
+be no late assignments accepted. Let me explain this again, there will be no late assignments 
+accepted. I am actually a reasonable person, come talk to me about exceptional circumstances. You 
+know the deadlines now please plan ahead. 
+
+Lateness to classes: It does not bother me, just don’t disturb anyone. On the days the homework 
+assignments are due, the due time will be 10 minutes after class time. So you may wish to make 
+sure you are not more than 10 minutes late for those classes. If you want to leave early, it would 
+be very nice if you could give me advance warning. If that’s too much trouble, or if you forgot, 
+don’t worry, just don’t disturb anyone and leave quietly. 
+
+Commitments and such: I am usually very easy going. I like relaxed classrooms for learning and 
+will try my best to create such an environment. Please do not confuse relax environment with relax 
+requirements. I work very hard, and expect students to work as hard. On average, each percentage 
+of your assignments should represent one-two hours of outside-of-class time. For example, if an 
+MP worth 8%, then on average, you will probably need about 10-15 hours to finish this 
+assignment. Please use this as a reference and let me know if you are spending too much time on 
+the assignments. If most of you are experiencing the same problem, then we will have to adjust the 
+amount of work. Please seriously consider if you have the time this quarter for this class. If you do 
+have the time, please stay in this class, I will work very hard and try my best to make this class a 
+worthwhile learning experience for you. 
+
+Group Final Project: Only the final project is group assignment. You are encouraged to form 
+groups of 2 persons to work on the final projects. Please talk to me if you wish to form a 
+3-member-group and you will be responsible for proposing the extra features to justify the third member. If 
+you choose to work alone, you will not receive extra credits.  Policy for forming 
+groups: Depending on your scores from the first few programming assignments and your weekly 
+quiz scores, I will divide all students in class into 2 or 3 sets. You can form groups only with 
+students from the same set. For example, if you are in Set-A and your best friend is in Set-B, then 
+the two of you cannot form a group! 
+
+
+Problems 
+If you have any problem with this course, please talk to me as soon as possible.  I would like to 
+help in any way I could, but I have to know there is a problem. If you fall behind in this class, it 
+will be difficult to catch up. 
+
+
+
+Course Evaluation Scores
+
+Sorry, none avaliable at this time.
+***
+CSS 475 - Database Systems
+Quarter: Spring 2010
+
+Professor: Ms. Kalpana Viswanathan
+Office: UW2 – 240
+Office Hours: by appointment
+Phone: (425) 352-5286
+E-mail: kalpanav@u.washington.edu
+
+
+
+Course content
+This course covers techniques for database design and reporting, as well as database system 
+concepts necessary for implementation and optimization. The first part of the course will cover 
+concepts and techniques useful in database design, reporting, and implementation, including the 
+relational model, relational algebra, Structured Query Language (SQL), and normalization. 
+The second part of the course will cover object role modeling and the phases of database 
+design methodology (conceptual, logical, and physical). Additional topics, such as transaction 
+management, query processing, and current trends will be addressed as time permits.
+
+Textbook
+Thomas Connolly and Carolyn Begg, “Database Systems: A Practical Approach to Design, Implementation, 
+and Management,” Addison-Wesley, Fifth Edition, 2010.
+
+Grading
+Homework:		10% (Turning all of these in is important to your grade.)
+Quizzes:		15% (Best 3 out of 4 quizzes – no make-up quizzes will be given.)
+Group project:		25%
+Midterm:		25%
+Final exam:		25%
+
+I use a linear grading scale such that 75% = 2.0, 85% = 3.0, 95% = 4.0.
+
+Class policies
+All assignments are to be turned in on-line before the beginning of class on the due 
+date. I encourage students to work on the homework assignments in small groups, but each 
+student must turn in their own solutions. Homework problems will not be graded, but 
+completion will count towards your grade (10%). Late homework (up to the next class time)
+will receive a 40% penalty. Incomplete assignments and those copied from a solution key 
+will also be discounted. Incorrect answers will not, in general, be graded down.
+Make-up exams will not be given except under extraordinary circumstances. These should 
+be discussed with the instructor in advance, except in the case of an emergency, which 
+should be well documented. There will be no make-up quizzes.
+
+
+Tentative schedule (subject to change)
+
+Week	Topic					Reading				Assignments
+
+1	Introduction/Relational model		Chapter 1-4 (skim 3)
+	
+	Relational algebra and calculus		Chapter 5			HW1 assigned
+
+2	SQL: Data manipulation, part 1		Chapter 6
+
+	SQL: Data manipulation, part 2		Chapter 6			HW1 due, Q1
+
+3	SQL: Data definition			Chapter 7			HW2 assigned
+
+	MS Access / Query-by-example		Chapter 9
+
+4	Entity-relationship modeling		Chapter 12,13
+
+	Normalization				Chapter 14
+
+5	Normalization				Chapter 15			HW2 due, Q2
+
+	Review
+
+6	Midterm
+	
+	Fact finding / Conceptual design	Chapter 11, ORM paper		Project assigned
+
+7	Conceptual design methodology		ORM paper			HW3 assigned
+
+	Conceptual design methodology		ORM paper
+
+8	Logical design methodology		ORM paper			Project proposal due
+
+	Physical design / Transactions		Chapter 18, Chapter 22		HW3 due, Q3
+
+9	Transaction management			Chapter 22			HW4 assigned
+
+	Query processing			Chapter 2310
+
+10	Database access / Review		Chapter 30, Appendix I		HW4 due, Q4
+
+	Project presentations							Project due
+
+11	Final (in class)
+
+
+Assignments
+There will be four assignments. There will also be a group project in which you and some fellow students 
+will design and implement a database using MS Access, including conceptual, logical, and physical design 
+stages and sample queries. 
+
+
+Course Evaluation Scores 
+
+Sorry, none avaliable at this time. 
+***
+CSS 490 - Introduction To Game Programming 
+Quarter: Spring 2011 
+
+Instructor: Kelvin Sung 
+Office: UW1-339 
+Office Hours: Thu 2:00-3:00 pm Or by appointment 
+Phone: (425)-352-5420 (phone for appointments only please) 
+Email: ksung@u.washington.edu 
+
+
+
+We will be learning: 
+This class examines the fundamental issues in designing and developing computer video games. 
+We begin with examining technical issues in developing a game including: software architecture, 
+interaction model, mathematic concepts, real-time approximation for Newtonian physics, 
+elementary special effects, and algorithms relevant to supporting in-game logic. After the technical 
+knowledge, in the second half of the quarter we examine the elements in games design including: 
+world setting, game play, and interface; and the procedure of designing games including: 
+conceptualization, prototyping, and playtesting. 
+
+Prerequisites: CSS 343 or equivalent. 
+
+Grading: 
+Programming Assignments (3) 	40%-50% 
+Weekly short quizzes 		~25% 
+Final Game			~30% 
+In class participation 		  ~5% 
+
+
+Books 
+  
+Required Text:  None. Reference materials will be provided. 
+
+Required Readings: 
+Introduction to game development, S. Rabin (Ed.), Boston, MA, Charles River Media, 2005. 
+	A1: Bakie, R. T. (2005). A brief history of video games. In S. Rabin (Ed.), Introduction to game development (pp. 1-36). Boston, MA: Charles River Media. 
+	A2: Bakie, R. T. (2005). Games and society. In S. Rabin (Ed.), Introduction to game development (pp. 37-50). Boston, MA: Charles River Media. 
+	A3: Jarvinen, A. & Holopainen, J. (2005). Ludology for game developers: An academic perspective. In S. Rabin (Ed.), Introduction to game development (pp. 51-68). Boston, MA: Charles River Media. 
+	A4: Falstein, N. (2005). Understanding fun: The theory of natural funativity. In S. Rabin (Ed.),Introduction to game development (pp. 69-97). Boston, MA: Charles River Media. 
+	A5: Barry, I. (2005). Game design. In S. Rabin (Ed.), Introduction to game development (pp. 99-160). Boston, MA: Charles River Media. 
+Fundamentals of Computer Graphics, P. Shirley, Wellesley, MA, A. K. Peters, 2005. 
+	B1: Sung, K. (2005). Building interactive graphics applications. In P. Shirley (Ed.), Fundamentals of computer graphics (pp. 401-449). Wellesley, MA: A K Peters, Ltd. 
+Programming game AI by example, M, Buckland, Plano TX, Woodward Publishing Inc, 2004. 
+	C1: Buckland, M. (2004). A math and physics primer. In Programming game AI by example (pp. 1-41). Plano, TX: Woodward Publishing, Inc. 
+	C2: Buckland, M. (2004). State-driven agent design. In Programming game AI by example (pp. 43-83). Plano, TX: Woodward Publishing, Inc. 
+Tricks of the Windows game programming guru, Indianapolis, IN, Sams Publishing, 2002. 
+	D1: LaMothe, A. (2002). Playing God: Basic physics modeling. In Tricks of the Windows game programming gurus (pp. 803-878). Indianapolis, IN: Sams Publishings. 
+Game Design Workshop a play centric approach to creating innovative games, Tracy Fullerton, Burlington, MA, Morgan Kaufmann, 2008. 
+	E1: Chapter 7: Prototyping 
+	E2: Chapter 9: Playtesting 
+	E3: Pages 349-362 
+	E4: Page 394-402 
+Game Design and Development, E. Adams and A. Rollings, Berkeley, Upper Saddle River, NJ, Pearson Prentice Hall, 2007. 
+	F1: Chapter 4: Game world 
+	F2: Chapter 8: Creating the User Experience 
+	F3: Chapter 9: Game play 
+
+
+
+Schedule: 
+  
+Week 	Topics 				Reading			Note:	
+
+1 	Intro + Real Time Systems 	A1 – A3 		Assign: MP #1 
+					B1 
+
+
+2 	Math in Games 			C1 			Due: MP #1 
+								Assign: MP #2 
+			
+					
+3 	Physics in Games 		D1, C2 
+	Game Logic: 
+	Finite State Machine 
+  
+
+4 	Game Design: 			F1 			Due: MP #2 
+	Conceptualization + 		E3, E4, E1 		Assign: MP #3 
+	Prototyping 
+	Final Project Groups:
+	find your own group! 
+
+
+5 	Game Programming: 					Due: MP #3
+	Particle systems + 					Design document (hand-in class) 
+	Sprite Animation 					+ Presentation + Rank 
+	Pitch your games 
+ 
+
+6 	Catch up: Particle systems 	A4 – A5, F3, F2 	Due: digital prototype demo 
+	+ Sprite Animation 					Design document (hand-in class)
+	Game Demo: digital prototype 				 + Eval + Rank 
+	
+
+7 	Guest Lecture – Developers’ 	E2			Due: Prototype Demo 
+	Perspective: Brad Hallisey,				Design document (hand-in class)  
+	Arenanet. 						+ Eval + Rank
+	Game Demo: First rough 
+	implementation 
+ 
+
+8 	Guest Lecturer – Educator’s 				Due: Alpha Demo 
+	Perspective: Mike Zyda,					Design document (hand-in class) 
+	 USC GamePipe Lab 					 + Play + Eval + Rank
+	Game Demo: Playtesting (1) 
+ 
+
+9 	Guest Lecturer – Producer’s 				Due: Beta Demo 
+	Perspective: Jason Bay,					Design document (hand-in class)
+	 Griptonite Games 					+ Play + Eval + Rank 
+	Game Demo: Playtesting (2) 
+ 
+
+10 	Guest Lecturer – Business 
+	Perspective: Barry Weisband,
+	UWB Business Development Center 
+  
+
+11 	Final’s Week: Project 					Due: Final Project 
+	Demo & Presentation 					Design document (hand-in class) 
+ 								+ Play + Eval + Rank
+ 
+
+
+
+Submitting Programming Assignments (MPs): 
+Submitting Source Code: You will submit your source code of each programming assignment (or
+machine problem, or mp) and I will run/test your submissions. We will be using the web-based 
+catalyst submission facility. There is a folder with the corresponding mp number on the 
+submission site (e.g. mp1, mp2, etc.). Before the due time of the assignment, you should: 
+
+Create a folder containing: 
+·         all the relevant source files of your mp: I want to be able to run a script and process your .sln 
+file to compile/run your submission 
+·         an EXE folder containing only the required files executable and resource files to run your mpL 
+I want to be able to double-click on the exe file and run your submission 
+·         and no more. 
+Having extra useless/irrelevant files in that folder will results in lost credits. Please clean 
+up  both  bin  and  obj  folders before  you copy your files over. These folders can be  huge  and will 
+take up unnecessary time/space. WARNING: a significant percentage of each mp’s grade will be 
+deducted if your submission includes the contents of bin or objfolders, or any useless files 
+(e.g., .user, .cache… etc.) Use your first and last name and mp# as the name of your folder. 
+Please  do not include blank space as part of the name for this folder 
+(i.e. do use “KelvinSungMp1” as folder name, anddo not use “Kelvin Sung MP1” with blank spaces.). Please 
+zip up our folder into one zip file.  Go to our course submission area and “turn in” you .zip file. 
+
+*  Send yourself a digital receipt just in case something should go wrong. *
+
+Submit as many times as you wish (you may have to use different names), I will only look at the 
+last one received before the deadline. Please do not submit hard copies of your program. Let’s 
+safe some trees, I will look at your source code electronically. 
+			
+There is a “Test Turn-in” assignment for you to try things out. Please do try it before the first MP 
+due date! If I do not see a test submission and you have trouble submitting your first assignment 
+at the last minute, I will not help you. I can only help those who tried. 
+
+In addition, and very importantly, you should always download your submission, 
+un-zip/compile/run to ensure your submission is correct. Remember, the grader (and/or I) will 
+download your submission, unzip, double-click on the .sln file to compile and run. You will lose 
+credits if anything in your submission should prevent us from automating this process. 
+
+You are responsible to ensure that the files you submitted are correct. On the due date of the mp, 
+the corresponding directory will be close at precisely the due time. After which, youwill not be 
+able to submit your work! I will not accept submissions via emails. You are responsible to ensure 
+that the files you submitted are correct. Minor submission mistakes (e.g. missed a small .h file) will 
+result in 10% deduction from the assignment. Major submission mistakes (e.g. forgot to include a 
+major .cpp file) will be treated as in-complete assignment and you will get 0% for the assignment. 
+On a case-by-case basis, I will decide if a submission mistake is minor or major. There will be no exceptions! 
+
+Remember, our projects tend to be large, and it takes time to submit files over the network! If you 
+start submitting 2 minutes before the deadline, and when deadline arrive your file transfer has not 
+completed, your submission will be lost! It will be as though you did not submit, and you will 
+receive 0% for the mp!! 
+
+If there is an emergency and/or personal difficulty, please talk to me in person. Remember to 
+document your code, and practice the good programming skills you learned in CSS 343. 
+
+
+General Policies: 
+Assignment Deadlines: There will be no late assignments accepted. Let me put this in another 
+way, there will be no late assignments accepted. These apply to both homework assignments and 
+machine problems. Pay attention to the deadline on the assignments (including the time), there will 
+be no late assignments accepted. Let me explain this again, there will be no late assignments 
+accepted. I am actually a reasonable person, come talk to me about exceptional circumstances. You 
+know the deadlines now please plan ahead. 
+
+Weekly Quiz: Each week, I will randomly contact 5-8 students for weekly quiz questions. If 
+selected, an email will be sent to you after Tuesday’s class. In return, you must send me at least 
+one  multiple choice quiz question (with at least 5 answers) based on the materials covered during 
+the previous two lectures (Tuesday and Thursday of the previous week). You will have until 
+Thursday mid-night to send me the quiz question(s). I will make sure each person will be 
+contacted equal number of times during the quarter. The quality of your quiz question will partially 
+determine your 5% “in-class participation” credit. So, pay attention in class and please do 
+response to quiz question solicitation requests! 
+
+Lateness to classes: It does not bother me, just don’t disturb anyone. On the days the homework 
+assignments are due, the due time will be 10 minutes after class time. So you may wish to make 
+sure you are not more than 10 minutes late for those classes. If you want to leave early, it would 
+be very nice if you could give me advance warning. If that’s too much trouble, or if you forgot, 
+don’t worry, just don’t disturb anyone and leave quietly. 
+
+Commitments and such: I am usually very easy going. I like relaxed classrooms for learning and 
+will try my best to create such an environment. Please do not confuse relax environment with relax 
+requirements. I work very hard, and expect students to work as hard. On average, each percentage 
+of your assignments should represent one-two hours of outside-of-class time. For example, if an 
+MP worth 8%, then on average, you will probably need about 10-15 hours to finish this 
+assignment. Please use this as a reference and let me know if you are spending too much time on 
+the assignments. If most of you are experiencing the same problem, then we will have to adjust the 
+amount of work. Please seriously consider if you have the time this quarter for this class. If you do 
+have the time, please stay in this class, I will work very hard and try my best to make this class a 
+worthwhile learning experience for you. 
+
+Group Assignments: The final game is a group assignment. You  must  form groups of 3 or 4 
+persons to work on the final project. No groups can be less than three members. 
+
+Policy for forming groups: Start getting to know everyone in class! We will decide the group 
+forming policy as time approaches. 
+
+Problems 
+If you have any problem with this course, please talk to me as soon as possible.  I would like to 
+help in any way I could, but I have to know there is a problem. If you fall behind in this class, it 
+will be difficult to catch up. 
+
+
+
+Course Evaluation Scores
+				5	4	3	2	1	0	Median
+___________________________________________________________________________________________
+The course as a whole:		60%	32%	4%	4%	0%	0%	 4.67
+The course content:		52%	28%	20%	0%	0%	0%	 4.54
+Instructor's contribution:	60%	36%	0%	4%	0%	0%	 4.67
+Instructor's effectiveness:	40%	56%	0%	4%	0%	0%	 4.32
+Instuctor's interest:		64%	32%	4%	0%	0%	0%	 4.72
+Amount learned:			60%	24%	16%	0%	0%	0%	 4.67
+Grading techniques:		50%	25%	21%	4%	0%	0%	 4.50
+
+For median calculation:   5 = Excellent   4 = Very Good   3 = Good   2 = Fair   1 = Poor   0 = Very Poor
+***
+CSS 499 - Undergraduate Research
+Quarter: N/A
+
+Instructor: Munehiro Fukuda
+Office: room UW1-331
+office hours: TBA
+phone: 352-3459
+Email: mfukuda@u.washington.edu
+
+
+
+Course Description:
+This course gives you an opportunity to join the UW Bothell Distributed Systems Laboratory (DSL) and participate in 
+its projects: Sensor Cloud Integration, AgentTeamwork, and/or M++. Those systems are based on mobile agents. 
+Through your participation, you will implement or enhance a part of these sytems, conduct performance evaluation, 
+and/or develop applications running on top of them. To learn about Sensor Cloud Integration, AgentTeamwork, and 
+M++, visit the DSL web site: http://depts.washington.edu/dslab
+
+Prerequisites:
+Although CSS499 has no official prerequisites, if you hope to take this course under my supervision, you should take 
+decimal grade 3.3 (B+) or better in at least one of the following courses I am teaching:
+	• CSS430: Operating Systems
+	• CSS432: Network Design
+	• CSS434: Parallel and Distributed Computing
+
+Work Load and Grading:Your work load depends on the number of credits you will register. I generally allow you to 
+register up to 5 credits that correspond to 200-hour work in a quarter. You should choose decimal grade as your 
+grading option. Your work is graded based on the following three creterion:
+	1. Frequent communication: You should inform me of your working status frequently, (i.e., weekly or biweekly.) Your email or visit to my office is sufficient.
+	2. Final term report: You must turn in your final term report. This should include: (1) your work summary, (2) the detailed specification of your work, (3) the per-class/function design note of your program, (4) directions where to find and how to run your program, (5) your source code in courier-new format with prenty of comments, and (6) qualitative and/or quantitative analysis and results.
+	3. Demonstration: When turning in your term report, you are supposed to give me a demonstration of your work at the medusa or uw1-320 linux cluster.
+Note that your final term report will be read by your next students who continue working on the same project. Write 
+your work and knowledge as much as possible.
+
+#credits	#hours/week	#hours/quarter
+1		4		40
+2		8		80
+3		12		120
+4		16		160
+5		20		200
+
+(How did these metrics come out? You have to work for 400 hours to complete a 10-credit CSS497 Cooperative 
+Education. The same calculation can be applied. 1 credit corresponds to 40 hours.
+
+Programming Textbooks, References, and Manuals:
+If you need to refer to programming textbooks or manuals, please visit my CSS430/CSS432/CSS434 course websites 
+where you can find links to related books. Since my research work includes Sensor Cloud Integration, AgentTeamwork, 
+and M++, the following materials are the most useful to you when getting involved in my work.
+	• Synopsis of Sensor Cloud Integration
+	• MASS Library Specification
+	• AgentTeamwork White Paper
+	• M++ User Manual
+
+Computing Resources:
+Check the computing resources that you can use within CSS (http://www.uwb.edu/css/facilities). In addition, you can 
+use the following computing nodes at the UW1-302 laboratory
+	• Medusa Cluster: medusa.uwb.edu, mnode0.uwb.edu - mnode27.uwb.edu
+	• hercules.uwb.edu: eight cores, each with two HW threads
+	• phoebe.uwb.edu: two cores
+	• hydra.uwb.edu: GPU machine (You need a persmisson from Dr. Stiber.)
+
+Quarterly schedule:
+
+Week		Remarks
+1		Kick-off meeting: we will define your work.
+2~9		Frequent communication: Keep informing me of your status.
+10		Finish your work and start writing your term report.
+11		Final meeting: turn in your term report and demonstrate your work.
+
+
+Course Evaluation Scores
+
+Sorry, none availiable at this time.
+***
+END
+***
